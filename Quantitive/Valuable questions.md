@@ -6,3 +6,6 @@
 1. There are 5 textbooks, A: 510, B: 480, C: 490, D:520, E:x. What is the greatest possible value of x for which the average (arithmetic number) number of pages of 5 textbooks is equal to the median number of pages of 5 textbooks?  
 
 
+# 3. Answers have multiple options    
+1. A veterinarian has 70 clients who own cates, dogs or both. 
+
