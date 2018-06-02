@@ -3,7 +3,9 @@
 2. 
 
 # 2. Number
-1. There are 5 textbooks, A: 510, B: 480, C: 490, D:520, E:x. What is the greatest possible value of x for which the average (arithmetic number) number of pages of 5 textbooks is equal to the median number of pages of 5 textbooks?  
+1. There are 5 textbooks, A: 510, B: 480, C: 490, D:520, E:x. What is the greatest possible value of x for which the average (arithmetic number) number of pages of 5 textbooks is equal to the median number of pages of 5 textbooks?    
+2. Set T consists of the integers from 11 through 100, inclusive. Quantity A: 4 times the number of integers in set T that are multiples of 4. Quantity B: 5 times the number of integers in set T that are multiples of 5.    
+
 
 
 # 3. Answers have multiple options    
