@@ -7,5 +7,5 @@
 
 
 # 3. Answers have multiple options    
-1. A veterinarian has 70 clients who own cates, dogs or both. 
+1. A veterinarian has 70 clients who own cates, dogs or both. Of these clients, 36 own cats, including 20 clients who own both cats and dogs. Which of the following statemnts must be true? Indicate all such statements. A. 54 clients who own dogs. B. 34 clients who own dogs but no cats C. 16 clients who own cats but no dogs.    
 
