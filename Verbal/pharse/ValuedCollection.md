@@ -1,5 +1,5 @@
 # Uint 1    
-stop short of 决定不做....     
+stop short of (doing sth) 决定不做....     
 jocky for 不折手段地争取  (jockey，驾驶，欺骗，驾驶员；耍手段搞欺骗)     
 per se 本身，本质上     
 silver lining 困境中的一线希望，积极的一面     
