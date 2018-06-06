@@ -7,7 +7,7 @@
 2. Set T consists of the integers from 11 through 100, inclusive. Quantity A: 4 times the number of integers in set T that are multiples of 4. Quantity B: 5 times the number of integers in set T that are multiples of 5.     
 3. Two bottle size for milk in the market. Small bottle was sold with 2/5 as mant ounces of liquid as the large bottle and was sold at a price that was 1/2 the price of the large bottle. A: price per ounce of liquid in small bottle B: price per ounce of the liquid in the large bottle.   
 4. (x^a)^b = ?    
-5. 
+5. In year of 2000, average number per month of first 3 months equals of last 9 months, approximately how many during 12 months of 2000? first 9 months of 2000 are 43.    
 
 
 
