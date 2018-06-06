@@ -6,7 +6,8 @@
 1. There are 5 textbooks, A: 510, B: 480, C: 490, D:520, E:x. What is the greatest possible value of x for which the average (arithmetic number) number of pages of 5 textbooks is equal to the median number of pages of 5 textbooks?      
 2. Set T consists of the integers from 11 through 100, inclusive. Quantity A: 4 times the number of integers in set T that are multiples of 4. Quantity B: 5 times the number of integers in set T that are multiples of 5.     
 3. Two bottle size for milk in the market. Small bottle was sold with 2/5 as mant ounces of liquid as the large bottle and was sold at a price that was 1/2 the price of the large bottle. A: price per ounce of liquid in small bottle B: price per ounce of the liquid in the large bottle.   
-
+4. (x^a)^b = ?    
+5. 
 
 
 # 3. Answers have multiple options    
