@@ -8,7 +8,7 @@
 3. Two bottle size for milk in the market. Small bottle was sold with 2/5 as mant ounces of liquid as the large bottle and was sold at a price that was 1/2 the price of the large bottle. A: price per ounce of liquid in small bottle B: price per ounce of the liquid in the large bottle.   
 4. (x^a)^b = ?    
 5. 
-![alt text](https://raw.githubusercontent.com/zhou-1/GRE-2018/Quantitive/images/1.JPG)   
+![alt text](https:/zhou-1/GRE-2018/Quantitive/images/1.JPG)   
 
 
 
