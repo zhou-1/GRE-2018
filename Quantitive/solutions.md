@@ -9,6 +9,8 @@
 3. Understanding the purpose of the question, not which one is valuable but has biiger value which means least valuable. We can say size of big is 5, small then is 2; price of big is 2, small is 1; small: 1/2 bigger than big: 2/5.     
 4. x^(a* b)    
 5. Assume first 3 months is 0, (9-3)* x=43, x=7.x; 7.x* 9 = 63. However, in first 3 months, there must has numbers, so less than 63 is proper which only is 57.    
+6. Key here is each of the next two years. So year by year. p* 1.038* 1.038 = 1.077p. A is bigger than 1.076p. A is bigger.     
+
 
 
 
