@@ -16,11 +16,15 @@
 1. slope of l: (-1-5)/(6-(-4)) = -3/5; line k is perpendicular to line l, slope of k * slope of l = -1. Therefore, slope of k is 5/3.    
 2. 
 
-# 4. data, table  
+# 4. Data, table  
 1. (72%* 1200-55%* 1200)/55%* 1200 = 204/660 = 30.9% ~ 31%    
 2. 
 
 
 # 5. Multiple options   
 1. only 36-20=16 clients who own cats but no dogs, C; 70-16=54 who own dogs including own both, A; 54-20=34 clients who own dogs but no cats, B.   
+
+
+# 6. Trick questions   
+1. Only one situation: -3, -2, -1, 0, 1, 2, 3. The product of all is 0, median integer is 0. Least value is -3.     
 
