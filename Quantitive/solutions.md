@@ -12,8 +12,11 @@
 6. Key here is each of the next two years. So year by year. p* 1.038* 1.038 = 1.077p. A is bigger than 1.076p. A is bigger.     
 
 
+# 3. Coordinates   
+1. slope of l: (-1-5)/(6-(-4)) = -3/5; line k is perpendicular to line l, slope of k * slope of l = -1. Therefore, slope of k is 5/3.    
+2. 
 
 
-# 3. Multiple options   
+# 4. Multiple options   
 1. only 36-20=16 clients who own cats but no dogs, C; 70-16=54 who own dogs including own both, A; 54-20=34 clients who own dogs but no cats, B.   
 
