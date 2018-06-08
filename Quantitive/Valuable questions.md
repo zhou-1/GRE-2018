@@ -11,7 +11,11 @@
 6. The population of country X for 1980 was p. The population of country X increased by 3.8 percent in each of the next two years. A: The population of X for 1982. B； 1.076p    
 
 
+# 3. Coordinates  
+1. line l in the xy-plane contains points A and B with coordinates (-4,5) and (6,-1）， respectively. Line k is perpendicular to l and contains the midpoint of line segment AB. Slope of l and k?    
+2. 
 
-# 3. Answers have multiple options    
+
+# 4. Answers have multiple options    
 1. A veterinarian has 70 clients who own cates, dogs or both. Of these clients, 36 own cats, including 20 clients who own both cats and dogs. Which of the following statemnts must be true? Indicate all such statements. A. 54 clients who own dogs. B. 34 clients who own dogs but no cats C. 16 clients who own cats but no dogs.    
 
