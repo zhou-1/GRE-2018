@@ -1,0 +1,19 @@
+# hats    
+
+
+
+
+# upper    
+
+
+
+
+# bottom   
+
+
+
+
+
+# shoes    
+
+
