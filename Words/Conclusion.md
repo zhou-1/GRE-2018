@@ -6,3 +6,7 @@
 1. <b>停止</b>    cease;     stop   
 2. <b>尊敬</b>    esteem;     respect      
    
+# Antonym/opposites    
+cosmopolitan 世界性的 ------ insular 孤立的   
+
+
