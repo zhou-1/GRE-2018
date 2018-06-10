@@ -6,6 +6,7 @@
 北美洲：North America   
 大洋洲：Oceania   
 南极洲：Antarctica   
+（Extra: Mesoamerica 中美洲）  
 
 # Oceans    
 大西洋:Atlantic Ocean    
