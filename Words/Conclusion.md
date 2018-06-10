@@ -3,4 +3,4 @@
 
 # Same meaning      
 1. <b>尊敬</b>    esteem;     respect      
-2. 
+2. <b>停止</b>    cease;     stop      
