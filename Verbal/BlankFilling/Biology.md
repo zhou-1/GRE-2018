@@ -7,4 +7,6 @@ now common; obligatory 有义务的，必须的； jettisoned 弃投（货物）
 3. 尽管有大量例子可以被引用外来物种对生态的破坏，然而大多数被引进且存活下来的物种对于他们入侵的生态只有相当小的微不足道的影响。in face appear to have quite ___ effects.     
 minimal / trifling 微不足道的，轻浮的     
 
-4. 
+4. 尽管领域/牧场研究表明inbreeding 近亲繁殖和降低麻雀数量有关；但是一些研究生者认为，在自然中, inbreeding proves ___ as a fator when compared with crushing blows from weather changes.     
+trivial 不重要的，琐碎的 / inconsequential 不重要的，不合理的     
+
