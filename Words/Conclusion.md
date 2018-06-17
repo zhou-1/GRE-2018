@@ -14,5 +14,6 @@
 # Antonym/opposites    
 cosmopolitan 世界性的 ------ insular 孤立的   
 progressive 前进的，激进的 ------ reactionary 保守的    
+positive/active 积极的 ------ negative/passive 消极的，被动的    
 
 
