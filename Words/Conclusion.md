@@ -8,6 +8,7 @@
 1. <b>停止</b>    cease;     stop   
 2. <b>尊敬</b>    esteem;     respect   
 3. <b>不重要的</b>  trivial；   inconsequential;    trifling 微不足道的    
+4. <b>杰出的，有名的</b> eminent;    famous;     splendid;    outstanding       
 
    
 # Antonym/opposites    
