@@ -20,6 +20,7 @@
 
 # 4. Data, table  
 1. (72%* 1200-55%* 1200)/55%* 1200 = 204/660 = 30.9% ~ 31%    
+2. Understanding is essential. The ratio of the numbr of companies offering both a stock-options incentive and one of the benefits listed / the number of companies offering that benifit ||  is greatest || question: for which of the five benefits? 41/303 is greatest, which is tution benefit.     
  
 
 
