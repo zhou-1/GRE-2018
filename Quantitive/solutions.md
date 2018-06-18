@@ -16,18 +16,22 @@
 
 # 3. Coordinates   
 1. slope of l: (-1-5)/(6-(-4)) = -3/5; line k is perpendicular to line l, slope of k * slope of l = -1. Therefore, slope of k is 5/3.    
-2. 
+
 
 # 4. Data, table  
 1. (72%* 1200-55%* 1200)/55%* 1200 = 204/660 = 30.9% ~ 31%    
-2. 
+ 
 
 
-# 5. Multiple options   
+# 5. Probabilities    
+1. (3+2+1)* 2 =12 ways      
+
+
+# 6. Multiple options   
 1. only 36-20=16 clients who own cats but no dogs, C; 70-16=54 who own dogs including own both, A; 54-20=34 clients who own dogs but no cats, B.   
 
 
-# 6. Trick questions   
+# 7. Trick questions   
 1. Only one situation: -3, -2, -1, 0, 1, 2, 3. The product of all is 0, median integer is 0. Least value is -3.        
 2. Understanding!!!! 理解题意！！一共有30只笔，共有5种颜色，每支笔有其中一种颜色。其中有6只笔，每支笔是其中一种颜色。Ben 在看不见的情况下每次选一只，至少需要挑几只笔能保证其中至少有两只颜色不一样？ 剩下24只颜色都一样，肯定只能都选，剩下的6只中， ？？？？    
 
