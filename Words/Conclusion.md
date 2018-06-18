@@ -10,6 +10,7 @@
 3. <b>不重要的</b>  trivial；   inconsequential;    trifling 微不足道的    
 4. <b>杰出的，有名的</b> eminent;    famous;     splendid;    outstanding       
 5. <b>流行的,普遍的</b> popular;   prevalent;   epidemic (疾病方面）    
+6. <b>尖酸，刻薄</b> acrimony;     mordancy;    acrid  
    
 # Antonym/opposites    
 cosmopolitan 世界性的 ------ insular 孤立的   
