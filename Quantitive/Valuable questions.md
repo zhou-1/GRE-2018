@@ -9,6 +9,7 @@
 4. (x^a)^b = ?    
 5. In year of 2000, average number per month of first 3 months equals of last 9 months, approximately how many during 12 months of 2000? first 9 months of 2000 are 43.    
 6. The population of country X for 1980 was p. The population of country X increased by 3.8 percent in each of the next two years. A: The population of X for 1982. B； 1.076p    
+7. The answer is most nearly equal to (62.5* 10^6)/(2.5* 10 - 3.5* 10^(-6))?     
 
 
 # 3. Coordinates  
