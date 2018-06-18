@@ -19,7 +19,7 @@
 
 # 4. Data, table   
 1. There are 1200 managers conducted a survey. 72% of managers think work experience is important, 55% think appropriate behavior is important. The number of "work experience important" was approximately what percent greater than the number think "appropriate behavior important"?    
-2. 
+2. The ratio of the numbr of companies offering both a stock-options incentive and one of the benefits listed to the number of companies offering that benifit is greatest for which of the five benefits?    
 
 
 # 5. Probablities    
