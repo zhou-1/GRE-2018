@@ -32,6 +32,6 @@
 # 7. Trick questions
 1. If the product of 7 consecutive integers is equal to the median of the integers, what is the least of the 7 integers?    
 2. Ben has 30 pencils in a box. Each of the pencil is one of 5 different colors, and there are 6 pencils of each color. If Ben selects pencils one at a time from the box without being able to see the pencils, what is the minimum number of pencils that he must select in order to ensure that he selects at least 2 pencils of each color?         
-
+3. Employees who earn $20 per hour will be given an increase of $1 per hour. The percent increase base on this. Question: an employee who earns less than $20 per hour will be given a percent increase that is greater than the percent increase that will be given to the employees who earn $20 per hour ?     
 
 
