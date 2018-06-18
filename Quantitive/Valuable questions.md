@@ -22,10 +22,14 @@
 2. 
 
 
-# 5. Answers have multiple options    
+# 5. Probablities    
+1. Choose two balls from 4 same balls and choose one table from 2 same tables. How many combinations?     
+
+
+# 6. Answers have multiple options    
 1. A veterinarian has 70 clients who own cates, dogs or both. Of these clients, 36 own cats, including 20 clients who own both cats and dogs. Which of the following statemnts must be true? Indicate all such statements. A. 54 clients who own dogs. B. 34 clients who own dogs but no cats C. 16 clients who own cats but no dogs.      
 
-# 6. Trick questions
+# 7. Trick questions
 1. If the product of 7 consecutive integers is equal to the median of the integers, what is the least of the 7 integers?    
 2. Ben has 30 pencils in a box. Each of the pencil is one of 5 different colors, and there are 6 pencils of each color. If Ben selects pencils one at a time from the box without being able to see the pencils, what is the minimum number of pencils that he must select in order to ensure that he selects at least 2 pencils of each color?         
 
