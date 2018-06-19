@@ -12,5 +12,3 @@ dichotomous 叉状分支的，分成两个的   contradictory 矛盾的，抗辩
 
 5. The company suffers from an almost total lack of ___ : even the most innocuous 无害的 communications between departments lend to devolve into acrimony 辛辣刻薄.     
 comity 礼让，友谊       
-
-
