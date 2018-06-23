@@ -14,3 +14,7 @@
 印度洋：Indian Ocean    
 北冰洋：Arctic Ocean    
 
+# People   
+Venetians 威尼斯人   
+Vietnamese 越南人   
+
