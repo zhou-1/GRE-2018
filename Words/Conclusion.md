@@ -2,6 +2,7 @@
 1. Basis 基础，主要成分， 基本原理；   Bias 偏见，斜纹；偏斜的      
 2. Mortality 死亡率；  Morality 道德，品行      
 3. Consequential 间接的，结果的，重要的；   Consequent 结果；随之发生的    
+4. defend 辩护，保护；    offend 冒犯，进攻，违反    
 
 
 # Same meaning      
