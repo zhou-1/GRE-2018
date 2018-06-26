@@ -16,7 +16,7 @@
 
 # 3. Coordinates  
 1. line l in the xy-plane contains points A and B with coordinates (-4,5) and (6,-1）， respectively. Line k is perpendicular to l and contains the midpoint of line segment AB. Slope of l and k?    
-2. 
+2. In the xy plane, a line with equation y=mx+b, where m and b are constants and mb doesn't equal to 0, has a y-intercept that is twice the x-intercept. A:m; B:-2. Which is bigger?     
 
 
 # 4. Data, table   
