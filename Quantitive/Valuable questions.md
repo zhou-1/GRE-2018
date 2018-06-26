@@ -2,7 +2,7 @@
 1. In the rectangular coordinate system,  the point(3,1) is on the circle with center (0,-3). What is the area of the circle?     
 2. In a plane, points P and Q are 20 inches apart. If point R is randomly chosen from all the points in the plane that are 20 inches from P, what is the probability that R is closer to P than it is to Q?    
 3.   
-<img src="images/circle.jpg">
+<img src="images/circle.jpg">      
 ![Demo Image1](images/circle.jpg ) 
 
 # 2. Number
