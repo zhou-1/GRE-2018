@@ -12,7 +12,8 @@
 5. In year of 2000, average number per month of first 3 months equals of last 9 months, approximately how many during 12 months of 2000? first 9 months of 2000 are 43.    
 6. The population of country X for 1980 was p. The population of country X increased by 3.8 percent in each of the next two years. A: The population of X for 1982. B； 1.076p    
 7. The answer is most nearly equal to (62.5* 10^6)/(2.5* 10 - 3.5* 10^(-6))?     
-8. 0 <x<y. Quantity A: x percent of y; Quantity B: y percent of x.      
+8. 0 <x<y. Quantity A: x percent of y; Quantity B: y percent of x.       
+9. Standard deviation???   
 
 
 
@@ -39,5 +40,7 @@
 3. Employees who earn $20 per hour will be given an increase of $1 per hour. The percent increase base on this. Question: an employee who earns less than $20 per hour will be given a percent increase that is greater than the percent increase that will be given to the employees who earn $20 per hour ?     
 4. Three different committees consist of 8, 10, and 13 people, respectively. If N is the total number of
 different people in the 3 committees combined, what is the least possible value of N ?    
+5. Least range of dollar amount of catrgories.    
+6. Amy and Jed are among in a line of 35 people. Number before Amy plus number after Jed is 24. If there are 15 people behind Amy, including Jed, how many people are in front of Jed?    
 
 
