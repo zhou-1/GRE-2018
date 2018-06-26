@@ -16,7 +16,8 @@
 
 
 # 3. Coordinates   
-1. slope of l: (-1-5)/(6-(-4)) = -3/5; line k is perpendicular to line l, slope of k * slope of l = -1. Therefore, slope of k is 5/3.    
+1. slope of l: (-1-5)/(6-(-4)) = -3/5; line k is perpendicular to line l, slope of k * slope of l = -1. Therefore, slope of k is 5/3.     
+2. It seems we have two answers, m could be 2 or -2. But when m=2, x-intercept is negative number, y-intercept is positive number, not twice of x-inter. So m could only be 2. Tricky but needs attention!!!    
 
 
 # 4. Data, table  
