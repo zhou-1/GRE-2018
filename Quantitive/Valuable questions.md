@@ -2,7 +2,8 @@
 1. In the rectangular coordinate system,  the point(3,1) is on the circle with center (0,-3). What is the area of the circle?     
 2. In a plane, points P and Q are 20 inches apart. If point R is randomly chosen from all the points in the plane that are 20 inches from P, what is the probability that R is closer to P than it is to Q?    
 3.   
-![Demo Image1](images/circle.jpg ?raw=true) 
+<img src="images/circle.jpg">
+![Demo Image1](images/circle.jpg ) 
 
 # 2. Number
 1. There are 5 textbooks, A: 510, B: 480, C: 490, D:520, E:x. What is the greatest possible value of x for which the average (arithmetic number) number of pages of 5 textbooks is equal to the median number of pages of 5 textbooks?      
