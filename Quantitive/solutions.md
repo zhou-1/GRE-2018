@@ -13,7 +13,8 @@
 6. Key here is each of the next two years. So year by year. p* 1.038* 1.038 = 1.077p. A is bigger than 1.076p. A is bigger.     
 7. 2.5* 10 >> 3.5* 10^(-6), latter can be ignored, positive result. 62.5* 10^6/ 25 ~ 2.5* 10^6.      
 8. x percent of y: x* 0.01* y; y percent of x: y* 0.01* x; they are same!!    
-9. Standard deviation, s = sqrt[(sum from i=1 to N (Xi - average of X)^2)/(N-1)]
+9. Standard deviation, s = sqrt[(sum from i=1 to N (Xi - average of X)^2)/(N-1)]     
+
 
 
 # 3. Coordinates   
@@ -41,5 +42,6 @@
 3. Understand what the question wants us to compare. The percent increase is same for both. $1/$20. So it is false.       
 4. 如果第一个委员会的 8 个人都是第二个委员会的成员，而第二个委员会的 10 个人都是第三个委员会的成员的话，那么这三个委员会合起来只有 13 个人，但不会更少了。 答案是13      
 5. 最小的范围，看最大值和最小值的差，是不是最小     
+6. 35-24=11, people including Amy and Jed after those 24 front people, 11-2=9, get rid of Amy and Jed. 35=15=20. 20 (including Amy)+9=29. in front of Jed.    
 
 
