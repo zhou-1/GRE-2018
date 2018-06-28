@@ -1,7 +1,8 @@
 # 1. Circle and coordinate   
 1. Area of circle: get radius of circle, sqrt((1+3)^2+3^2), which is r, area of circle: pi* r^2    
 2. It is a question about circle. All places that are 20 inches from P, which makes a circle centered at P, radius is 20 inches, and point R is on the circle. When PR = RQ, which makes triangle PRQ a equilateral triangle, then angle RPQ is 60 degree, do not forget negative part based on X axis, so total angle is 60* 2 which is 120 degree, where R is closer to Q. Remaining 360-120 =240 degree, point R is closer to P. The probability when R is closer to P, 240 degree/ 360 degree which is 2/3.      
-3. OR=OS=r, OS didvide angle RST evenly, so triangle ORS is equilateral. So r = RS = 4. Perimeter of circle is 2* pi*r=8pi. Angle of arc RWT is 360 - 120 = 240 degree. So arc RWT is 8* pi* 240/360 = 16pi/3.     
+3. OR=OS=r, OS didvide angle RST evenly, so triangle ORS is equilateral. So r = RS = 4. Perimeter of circle is 2* pi* r=8pi. Angle of arc RWT is 360 - 120 = 240 degree. So arc RWT is 8* pi* 240/360 = 16pi/3.     
+4. equation of line: y=ax+b, a =2, b can be anything; when x=3, y can be 2* 3+b, b can be any number. so cannot determine 3 and 6+b.    
 
 
 # 2. Number    
