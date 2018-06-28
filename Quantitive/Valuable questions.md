@@ -2,6 +2,7 @@
 1. In the rectangular coordinate system,  the point(3,1) is on the circle with center (0,-3). What is the area of the circle?     
 2. In a plane, points P and Q are 20 inches apart. If point R is randomly chosen from all the points in the plane that are 20 inches from P, what is the probability that R is closer to P than it is to Q?    
 3. There is a circle of center O, points R,W,T,S on the circle. RS=ST=4, angle RST equals 120 degree. What is the length of arc RWT? Image in folder images.           
+4. In the xy-plane, line k has slope 2 and passes through the point (3,r). Quantity A: r; Quantity B: 3.    
 
 
 # 2. Number
