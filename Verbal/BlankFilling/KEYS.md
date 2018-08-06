@@ -10,6 +10,7 @@ even: 表示前后意思相反
 in fact：一定程度上体现了一种矛盾与不合理     
 once....has instead.....: 反映出过去和现在的对比，意思相反       
 too...to...: 表明意思相反   
+not so much A as B: A,B 意思相反     
 
 
 【并列】    
