@@ -17,5 +17,7 @@ erratical 飘忽不定的；反常的；错误的
 foil (v) 衬托；阻止 (n) 锡箔；烘托   
 mitigator (n) 缓和物；缓解剂    
 squelch (v) 消除；镇压；嘎吱作响 (n)噪声控制；压碎的一切     
+alacrity 敏捷，轻快，快速 - readiness    
+censure (v)(n) 责备，责难 - rebuke   
 
 
