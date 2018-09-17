@@ -5,4 +5,6 @@ cacophony  刺耳的声音，不和谐的声音
 rehash 重复；改变      
 expendable 不必要的，可消费的，排出的；消耗品     
 libelous 诽谤的；损害名誉的     
+weary 疲倦的；厌烦的     
+wary 谨慎的    
 
