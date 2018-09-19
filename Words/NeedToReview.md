@@ -19,5 +19,8 @@ mitigator (n) 缓和物；缓解剂
 squelch (v) 消除；镇压；嘎吱作响 (n)噪声控制；压碎的一切     
 alacrity 敏捷，轻快，快速 - readiness    
 censure (v)(n) 责备，责难 - rebuke   
-
+engage (v) 吸引，占用；使参加；雇佣；使订婚；预定;从事；参与；答应，保证；交战；啮合     
+engross (v) 使全神贯注；用大字体书写；正式写成（决议等）；独占；吸引    
+apprehansive (a) 忧虑的；不安的；知晓的 - agitated (a) 激动的；焦虑的；表现不安的 (v) 焦虑；鼓动    
+composed (a) 镇静的；沉着的 (v) 组成；作曲    
 
