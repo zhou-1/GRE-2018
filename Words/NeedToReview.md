@@ -25,3 +25,10 @@ apprehansive (a) 忧虑的；不安的；知晓的 - agitated (a) 激动的；�
 composed (a) 镇静的；沉着的 (v) 组成；作曲    
 shrewd (a)精明的，狡猾的 (n) 精明（的人）     
 conscientious (a) 认真的，小心谨慎的    
+dispatch (n) 派遣，急件；迅速 (v) 派遣，分派    
+promptness (n) 迅速；机智  
+presumption (n) 放肆，傲慢；推测     
+eclectic adj. 折衷的；选择的；折衷学派的 n. 折衷派的人；折衷主义者 adj. 不拘一格的;混合的     
+amalgam (n) 混合物 - alloy vt. 使成合金；使减低成色 n. 合金 vi. 易于铸成合金    
+reprimand n. 谴责；训斥；申诉; vt. 谴责；训斥；责难    
+
