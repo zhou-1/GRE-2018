@@ -50,6 +50,9 @@ lackadaisical adj. 懒洋洋的；无精打采的；伤感的
 deplete vt. 耗尽，用尽；使衰竭，使空虚    
 dissipation n. 浪费；消散；[物] 损耗   
 husbandry n. 饲养；务农，耕种；家政;节约    
+gesture n. 姿态；手势 vi. 作手势；用动作示意 vt. 用动作表示   
+cognition n. 认识；知识；认识能力   
+verbalization n. 以言语表现；冗长；变成动词     
 
 
 
