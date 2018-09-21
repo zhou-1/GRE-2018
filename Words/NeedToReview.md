@@ -45,6 +45,12 @@ erudition n. 博学；学识
 altruism n. 利他；利他主义   
 eccentric adj. 古怪的，反常的 n. 古怪的人    
 enigma n. 谜，不可思议的东西   
+obsequious adj. 谄媚的；奉承的；顺从的 - higiographic a. 理想化(或偶像化)的 - fawning adj. 奉承的；摇尾乞怜的 v. 奉承讨好    
+lackadaisical adj. 懒洋洋的；无精打采的；伤感的   
+
+
+
+
 
 
 
