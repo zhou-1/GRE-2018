@@ -1,6 +1,6 @@
 denunciation 斥责；告发    
-accusation 谴责；控告     
-paucity 少量，缺乏    
+accusation 谴责；控告 - condemnation n. 谴责；定罪；非难的理由；征用         
+paucity 少量，缺乏 - modicum n. 少量，一点点       
 cacophony  刺耳的声音，不和谐的声音         
 rehash 重复；改变      
 expendable 不必要的，可消费的，排出的；消耗品       
@@ -53,7 +53,9 @@ husbandry n. 饲养；务农，耕种；家政;节约
 gesture n. 姿态；手势 vi. 作手势；用动作示意 vt. 用动作表示   
 cognition n. 认识；知识；认识能力   
 verbalization n. 以言语表现；冗长；变成动词     
-
+matriarch n. 女家长；女统治者；女负责人；受人尊敬的妇女    
+plaudit n. 喝彩；赞美 - acclamation n. 欢呼，喝彩     
+pathos n. 悲怅；痛苦；同情；哀婉动人的词句     
 
 
 
