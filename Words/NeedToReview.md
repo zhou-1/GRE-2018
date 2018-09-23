@@ -1,7 +1,6 @@
 scent n. 气味；嗅觉；痕迹；察觉能力 vt. 闻到；发觉    
 odoriferous adj. 臭的，散发气味的；芬芳的   
-acoustic adj. 声学的；音响的；听觉的 n. 原声乐器     
-aural adj. 听觉的；耳的；气味的；先兆的     
+acoustic adj. 声学的；音响的；听觉的 n. 原声乐器 - aural adj. 听觉的；耳的；气味的；先兆的       
 tactile adj. [生理] 触觉的，有触觉的；能触知的 - tangible adj. 有形的；切实的；可触摸的 n. 有形资产        
 
 denunciation 斥责；告发    
