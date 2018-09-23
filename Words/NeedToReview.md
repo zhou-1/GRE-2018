@@ -1,3 +1,9 @@
+scent n. 气味；嗅觉；痕迹；察觉能力 vt. 闻到；发觉    
+odoriferous adj. 臭的，散发气味的；芬芳的   
+acoustic adj. 声学的；音响的；听觉的 n. 原声乐器     
+aural adj. 听觉的；耳的；气味的；先兆的     
+tactile adj. [生理] 触觉的，有触觉的；能触知的 - tangible adj. 有形的；切实的；可触摸的 n. 有形资产        
+
 denunciation 斥责；告发    
 accusation 谴责；控告 - condemnation n. 谴责；定罪；非难的理由；征用         
 paucity 少量，缺乏 - modicum n. 少量，一点点       
@@ -56,6 +62,15 @@ verbalization n. 以言语表现；冗长；变成动词
 matriarch n. 女家长；女统治者；女负责人；受人尊敬的妇女    
 plaudit n. 喝彩；赞美 - acclamation n. 欢呼，喝彩     
 pathos n. 悲怅；痛苦；同情；哀婉动人的词句     
+pungency n. 辛辣；刺激性；尖刻         
+conceal vt. 隐藏；隐瞒     
+outcry n. 强烈抗议；大声疾呼；尖叫；倒彩    
+disclosure n. [审计] 披露；揭发；被揭发出来的事情 - divulgence n. 透露    
+enfranchisement n. 解放，释放 - liberation    
+sporadic adj. 零星的；分散的；不定时发生的 - fitful adj. 一阵阵的；断断续续的；不规则的；间歇的   
+insipid adj. 清淡的；无趣的    
+soporific n. 催眠剂；安眠药 adj. 催眠的；想睡的    
+stimulating adj. 刺激的；有刺激性的 v. 刺激；激励    
 
 
 
