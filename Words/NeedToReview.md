@@ -81,9 +81,13 @@ notoreity n. 恶名；声名狼藉；丑名
 presage n. 预感；前兆 vt. 预感；预言     
 finesse n. 策略；纤细；灵巧 vt. 巧妙处理；以偷牌方式先出 vi. 偷牌；施展巧计     
 ineptitude n. 不适当，不合适；不称职；愚笨     
+manifesto n. 宣言；声明；告示 vi. 发表宣言 - declaration n. （纳税品等的）申报；宣布；公告；申诉书     
+invocation n. 祈祷；符咒；【法律】(法院对另案的)文件调取；(法权的)行使   
+prospectus n. 内容说明书；样张；创办计划书；学校的入学简介    
+arbitration n. 公断，仲裁    
+mandate n. 授权；命令，指令；委托管理；受命进行的工作 vt. 授权；托管    
 
-
-
+  
 
 
 
