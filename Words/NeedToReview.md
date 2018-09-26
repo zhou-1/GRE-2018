@@ -70,8 +70,17 @@ sporadic adj. 零星的；分散的；不定时发生的 - fitful adj. 一阵阵
 insipid adj. 清淡的；无趣的    
 soporific n. 催眠剂；安眠药 adj. 催眠的；想睡的    
 stimulating adj. 刺激的；有刺激性的 v. 刺激；激励    
-
-
+astonish vt. 使惊讶    
+adroitness n. 熟练；机敏    
+dexterity n. 灵巧；敏捷；机敏   
+deft adj. 灵巧的；机敏的；敏捷熟练的    
+discernment n. 识别；洞察力；敏锐；眼力     
+sagacity n. 睿智；聪敏；有远见     
+prestige n. 威望，声望；声誉(好的方面)     
+notoreity n. 恶名；声名狼藉；丑名     
+presage n. 预感；前兆 vt. 预感；预言     
+finesse n. 策略；纤细；灵巧 vt. 巧妙处理；以偷牌方式先出 vi. 偷牌；施展巧计     
+ineptitude n. 不适当，不合适；不称职；愚笨     
 
 
 
