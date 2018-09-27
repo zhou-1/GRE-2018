@@ -86,6 +86,24 @@ invocation n. 祈祷；符咒；【法律】(法院对另案的)文件调取；(
 prospectus n. 内容说明书；样张；创办计划书；学校的入学简介    
 arbitration n. 公断，仲裁    
 mandate n. 授权；命令，指令；委托管理；受命进行的工作 vt. 授权；托管    
+sublime adj. 庄严的；令人崇敬的；极端的；超群的 n. 崇高；顶点 vi. 升华；纯化；变高尚     
+enthralling adj. 迷人的 v. 迷惑；奴役     
+intelligible adj. 可理解的；明了的；仅能用智力了解的    
+mediocre adj. 普通的；平凡的；中等的    
+detrimental adj. 不利的；有害的 n. 有害的人（或物）；不受欢迎的求婚者    
+perniciousness n. 危害性；有害    
+tenet n. 原则；信条；教义 - credo n. 信条，教义    
+impasse n. 僵局；死路 - plight n. 困境；境况；誓约 vt. 保证；约定     
+mundane adj. 世俗的，平凡的；世界的，宇宙的    
+lavish adj. 浪费的；丰富的；大方的 vt. 浪费；慷慨给予；滥用     
+dazzle n. 耀眼的光；灿烂 vt. 使……目眩；使……眼花 vi. 眼花缭乱；炫耀    
+jade n. 翡翠；[宝] 碧玉；老马 adj. 玉制的；绿玉色的 vi. 疲倦 vt. 使疲倦    
+stymie vt. 从中作梗，阻挠；妨碍 n. 妨碍球     
+
+
+
+
+
 
   
 
