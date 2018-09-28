@@ -123,6 +123,25 @@ stingy adj. 吝啬的，小气的；有刺的；缺乏的
 dumbfounded adj. 目瞪口呆的 ，惊呆的 v. 使…慌乱；使…慌乱    
 distracted adj. 心烦意乱的；思想不集中的 v. 分心     
 debilitated vt. 使衰弱；使虚弱    
+entrust vt. 委托，信托    
+invigorate vt. 鼓舞；使精力充沛    
+depict vt. 描述；描画    
+domesticate vt. 驯养；教化；引进     
+roam vi. 漫游，漫步；流浪 vt. 在…漫步，漫游；在…流浪 n. 漫步，漫游；流浪      
+protest vi. 抗议；断言 vt. 抗议；断言 n. 抗议     
+enduring adj. 持久的；能忍受的 v. 忍耐     
+emblem n. 象征；徽章；符号 vt. 象征；用符号表示 - epitome n. 缩影；摘要；象征     
+successor n. 继承者；后续的事物    
+detractor n. 贬低者；诽谤者      
+nitpicker n. 吹毛求疵的人    
+dosage  n. 剂量，用量     
+substance n. 物质；实质；资产；主旨   
+curative adj. 有疗效的；治病的 n. 药品；治疗法     
+innocuous adj. 无害的；无伤大雅的    
+defunct adj. 死的；非现存的，不存在的 n. 死者    
+
+
+
 
 
 
