@@ -98,7 +98,13 @@ mundane adj. 世俗的，平凡的；世界的，宇宙的
 lavish adj. 浪费的；丰富的；大方的 vt. 浪费；慷慨给予；滥用     
 dazzle n. 耀眼的光；灿烂 vt. 使……目眩；使……眼花 vi. 眼花缭乱；炫耀    
 jade n. 翡翠；[宝] 碧玉；老马 adj. 玉制的；绿玉色的 vi. 疲倦 vt. 使疲倦    
-stymie vt. 从中作梗，阻挠；妨碍 n. 妨碍球     
+stymie vt. 从中作梗，阻挠；妨碍 n. 妨碍球    
+archipelago n. 群岛，列岛；多岛的海区    
+constellation n. [天] 星座；星群；荟萃；兴奋丛     
+flora n. 植物区系；植物群    
+flotilla n. 小型船队；小舰队      
+savanna n. [生态] 热带草原；热带的稀树大草原     
+sierra n. [地理] 锯齿山脊；呈齿状起伏的山脉    
 
 
 
