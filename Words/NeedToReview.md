@@ -105,6 +105,10 @@ flora n. 植物区系；植物群
 flotilla n. 小型船队；小舰队      
 savanna n. [生态] 热带草原；热带的稀树大草原     
 sierra n. [地理] 锯齿山脊；呈齿状起伏的山脉    
+felicity n. 幸福；快乐；幸运    
+folly n. 愚蠢；荒唐事；讽刺剧   
+vulnerable adj. 易受攻击的，易受…的攻击；易受伤害的；有弱点的    
+averse adj. 反对的；不愿意的    
 
 
 
