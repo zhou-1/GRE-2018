@@ -109,6 +109,17 @@ felicity n. 幸福；快乐；幸运
 folly n. 愚蠢；荒唐事；讽刺剧   
 vulnerable adj. 易受攻击的，易受…的攻击；易受伤害的；有弱点的    
 averse adj. 反对的；不愿意的    
+undaunted adj. 勇敢的，无畏的    
+disgruntled adj. 不满的；不高兴的    
+obsequious adj. 谄媚的；奉承的；顺从的      
+abasement n. 身分低微；屈尊；降低     
+chicanery n. 狡辩；欺骗；强词夺理 - wile vt. 欺骗，诱骗；消遣 n. 诡计，阴谋     
+artful adj. 巧妙的；狡猾的；有技巧的；欺诈的    
+subterfuge n. 托词；借口；诡计     
+consensus n. 一致；舆论；合意 - assent vi. 同意；赞成 n. 同意；赞成      
+
+
+
 
 
 
