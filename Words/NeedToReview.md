@@ -117,6 +117,12 @@ chicanery n. 狡辩；欺骗；强词夺理 - wile vt. 欺骗，诱骗；消遣 
 artful adj. 巧妙的；狡猾的；有技巧的；欺诈的    
 subterfuge n. 托词；借口；诡计     
 consensus n. 一致；舆论；合意 - assent vi. 同意；赞成 n. 同意；赞成      
+strenuous adj. 紧张的；费力的；奋发的；艰苦的；热烈的     
+facile adj. （言语或理论）轻率的，未经深思熟虑的; 温和的；灵巧的；易做到的     
+stingy adj. 吝啬的，小气的；有刺的；缺乏的    
+dumbfounded adj. 目瞪口呆的 ，惊呆的 v. 使…慌乱；使…慌乱    
+distracted adj. 心烦意乱的；思想不集中的 v. 分心     
+debilitated vt. 使衰弱；使虚弱    
 
 
 
