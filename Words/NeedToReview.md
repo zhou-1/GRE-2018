@@ -139,6 +139,10 @@ substance n. 物质；实质；资产；主旨
 curative adj. 有疗效的；治病的 n. 药品；治疗法     
 innocuous adj. 无害的；无伤大雅的    
 defunct adj. 死的；非现存的，不存在的 n. 死者    
+intricate adj. 复杂的；错综的，缠结的    
+bent n. 爱好，嗜好 adj. 弯曲的；决心的     
+sympathy n. 同情；慰问；赞同    
+unhinge vt. 使分开；取下…的铰链；使发狂或错乱    
 
 
 
