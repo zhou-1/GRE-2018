@@ -143,6 +143,14 @@ intricate adj. 复杂的；错综的，缠结的
 bent n. 爱好，嗜好 adj. 弯曲的；决心的     
 sympathy n. 同情；慰问；赞同    
 unhinge vt. 使分开；取下…的铰链；使发狂或错乱    
+galactic adj. 银河的；乳汁的（巨大的） - adj. 惊人的，异常的，奇妙的；巨大的     
+redundant adj. 多余的，过剩的；被解雇的，失业的；冗长的，累赘的    
+voracious adj. 贪婪的；贪吃的；狼吞虎咽的    
+disposable adj. 可任意处理的；可自由使用的；用完即可丢弃的    
+bequest n. 遗产；遗赠    
+benefactor n. 恩人；捐助者；施主    
+accountant n. 会计师；会计人员    
+rebellious adj. 反抗的；造反的；难控制的 - insurgent adj. 叛乱的；起义的 n. 叛乱者；起义者     
 
 
 
