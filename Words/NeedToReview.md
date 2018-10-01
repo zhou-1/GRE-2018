@@ -151,8 +151,18 @@ bequest n. 遗产；遗赠
 benefactor n. 恩人；捐助者；施主    
 accountant n. 会计师；会计人员    
 rebellious adj. 反抗的；造反的；难控制的 - insurgent adj. 叛乱的；起义的 n. 叛乱者；起义者     
-
-
+defy vt. 藐视；公然反抗；挑衅；使落空 n. 挑战；对抗     
+despotic adj. 暴虐的，暴君的；专横的 - tyrannical adj. 残暴的；暴君的；专横的        
+industrious adj. 勤勉的      
+oppressive adj. 压迫的；沉重的；压制性的；难以忍受的     
+hierarchical adj. 分层的；等级体系的     
+vexed adj. 生气的，烦恼的，恼怒的；为难的；焦急的     
+blend vt. 混合 vi. 混合；协调 n. 混合；掺合物     
+segragated adj. 被隔离的 v. 隔离（segregate的过去式）；分离      
+dislodge vt. 逐出，驱逐；使……移动；用力移动 vi. 驱逐，逐出；离开原位      
+discern vt. 识别；领悟，认识 vi. 看清楚，辨别      
+construe vt. 分析；解释；翻译 vi. 作文法性的分析     
+camouflage n. 伪装，掩饰 vt. 伪装，掩饰 vi. 伪装起来     
 
 
 
