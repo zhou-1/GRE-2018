@@ -163,6 +163,47 @@ dislodge vt. 逐出，驱逐；使……移动；用力移动 vi. 驱逐，逐�
 discern vt. 识别；领悟，认识 vi. 看清楚，辨别      
 construe vt. 分析；解释；翻译 vi. 作文法性的分析     
 camouflage n. 伪装，掩饰 vt. 伪装，掩饰 vi. 伪装起来     
+scarce adj. 缺乏的，不足的；稀有的 adv. 仅仅；几乎不；几乎没有     
+usurp vt. 篡夺；夺取；侵占 vi. 篡夺；篡权      
+indulge vt. 满足；纵容；使高兴；使沉迷于… vi. 沉溺；满足；放任     
+apportionment n. 分摊；分配；分派    
+expropriation n. 征收，征用；没收    
+reparation n. 赔偿；修理；赔款     
+circumscribe vt. 外切，外接；限制；在…周围画线     
+bolster n. 支持；长枕 vt. 支持；支撑      
+embellish vt. 修饰；装饰；润色 vi. 装饰起来；加以润色      
+insinuate vt. 暗示；使逐渐而巧妙地取得；使迂回地潜入 vi. 暗讽；说含沙射影的话       
+miser n. 守财奴；吝啬鬼；（石油工程上用的）凿井机 - skinflint n. 吝啬鬼；一毛不拔的人           
+loner n. 孤独的人；不合群的动物 - recluse n. 隐士；隐居者 adj. 隐居的    
+ingenue n. 天真无邪的少女；扮演天真姑娘的女演员     
+connoisseur n. 鉴赏家；内行     
+reimbursement n. 退还，偿还；赔偿    
+merchandise n. 商品；货物 vt. 买卖；推销 vi. 经商 - commodity n. 商品，货物；日用品     
+commercial adj. 商业的；营利的；靠广告收入的 n. 商业广告      
+quiescent adj. 静止的；不活动的；沉寂的     
+vehemently adv. 激烈地；暴烈地；竭尽全力地     
+spontaneously adv. 自发地；自然地；不由自主地     
+eruption n. 爆发，喷发；火山灰；出疹       
+geyser n. 喷泉；[水文] 间歇泉；（英）烧水锅炉     
+blandish vt. 奉承；谄媚；讨好 vi. 谄媚；讨好；奉承 - cajole vt. 以甜言蜜语哄骗；勾引      
+delude vt. 欺骗；哄骗；诱惑；【罕用】迷惑；逃避；使失望    
+nudge n. 推动；用肘轻推；没完没了抱怨的人 vt. 推进；用肘轻推；向…不停地唠叨 vi. 轻推；推进；唠叨     
+intimidate vt. 恐吓，威胁；胁迫    
+cordial adj. 热忱的，诚恳的；兴奋的 n. 补品；兴奋剂；甜香酒，甘露酒     
+duplicitous adj. 奸诈的；双重的；搞两面派的     
+candid adj. 公正的；坦白的；率直的；偷拍的    
+surreptitious adj. 秘密的；鬼鬼祟祟的；暗中的    
+narrow adj. 狭窄的，有限的；勉强的；精密的；度量小的 n. 海峡；狭窄部分，隘路 vt. 使变狭窄 vi. 变窄     
+transnational adj. 跨国的；超越国界的   
+cosmopolitan adj. 世界性的；世界主义的，四海一家的 n. 四海为家者；世界主义者；世界各地都有的东西    
+ecumenical adj. 普遍的；世界范围的；全基督教的    
+mendacious adj. 虚假的；说谎的     
+bombastic adj. 夸大的；言过其实的     
+conciliatory adj. 安抚的；调和的；调停的 - propitiatory adj. 安抚的；劝解的；讨好的     
+
+
+
+
 
 
 
