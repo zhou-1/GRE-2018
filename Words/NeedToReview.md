@@ -3,6 +3,7 @@ odoriferous adj. 臭的，散发气味的；芬芳的
 acoustic adj. 声学的；音响的；听觉的 n. 原声乐器 - aural adj. 听觉的；耳的；气味的；先兆的       
 tactile adj. [生理] 触觉的，有触觉的；能触知的 - tangible adj. 有形的；切实的；可触摸的 n. 有形资产        
 
+physician n. [医] 医师；内科医师   
 denunciation 斥责；告发    
 accusation 谴责；控告 - condemnation n. 谴责；定罪；非难的理由；征用         
 paucity 少量，缺乏 - modicum n. 少量，一点点       
@@ -220,9 +221,15 @@ outlandish adj. 古怪的；奇异的；异国风格的；偏僻的
 succulent adj. 多汁的；多水分的；多汁性的 n. 肉质植物；多汁植物     
 exotic adj. 异国的；外来的；异国情调的     
 stinging adj. 激烈的；刺人的；刺一样的    
-
-
-
+cliff n. 悬崖；绝壁    
+ambibalence n. [心理] 矛盾情绪；正反感情并存     
+aversion n. 厌恶；讨厌的人    
+predilection n. 偏爱，嗜好    
+atypical adj. 非典型的；不合规则的    
+demise n. 死亡，终止；转让；传位 vt. 遗赠；禅让     
+bereavement n. 丧友，丧亲；丧失    
+enigma n. 谜，不可思议的东西    
+kidney n. [解剖] 肾脏；腰子；个性     
 
 
 
