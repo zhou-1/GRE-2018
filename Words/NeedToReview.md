@@ -200,7 +200,11 @@ ecumenical adj. 普遍的；世界范围的；全基督教的
 mendacious adj. 虚假的；说谎的     
 bombastic adj. 夸大的；言过其实的     
 conciliatory adj. 安抚的；调和的；调停的 - propitiatory adj. 安抚的；劝解的；讨好的     
-
+diatribe n. 诽谤；恶骂    
+philippic n. 激烈的抨击   
+panegyric n. 颂词，赞颂 - acclamation n. 欢呼，喝彩；鼓掌欢呼表示通过     
+platitude n. 陈词滥调；平凡；陈腐    
+machination n. 阴谋；诡计     
 
 
 
