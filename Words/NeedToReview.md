@@ -205,8 +205,21 @@ philippic n. 激烈的抨击
 panegyric n. 颂词，赞颂 - acclamation n. 欢呼，喝彩；鼓掌欢呼表示通过     
 platitude n. 陈词滥调；平凡；陈腐    
 machination n. 阴谋；诡计     
-
-
+terse adj. 简洁的，精练的，扼要的     
+baroque adj. 巴洛克式的；结构复杂的，形式怪样的 n. 巴洛克风格；巴洛克艺术     
+embellish vt. 修饰；装饰；润色 vi. 装饰起来；加以润色     
+opinionated adj. 固执己见的；武断的    
+despise vt. 轻视，鄙视     
+discipline n. 学科；纪律；训练；惩罚 vt. 训练，训导；惩戒    
+abstinence n. 节制；节欲；戒酒；禁食     
+upbringing n. 教养；养育；抚育    
+stringent adj.严格的   
+earthy adj. 土的；土质的；朴实的；粗俗的    
+pungent adj. 辛辣的；刺激性的；刺鼻的；苦痛的；尖刻的 - acrid adj. 辛辣的；苦的；刻薄的    
+outlandish adj. 古怪的；奇异的；异国风格的；偏僻的   
+succulent adj. 多汁的；多水分的；多汁性的 n. 肉质植物；多汁植物     
+exotic adj. 异国的；外来的；异国情调的     
+stinging adj. 激烈的；刺人的；刺一样的    
 
 
 
