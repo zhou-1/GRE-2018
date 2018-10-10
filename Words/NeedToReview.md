@@ -230,6 +230,16 @@ demise n. 死亡，终止；转让；传位 vt. 遗赠；禅让
 bereavement n. 丧友，丧亲；丧失    
 enigma n. 谜，不可思议的东西    
 kidney n. [解剖] 肾脏；腰子；个性     
+reserved adj. 保留的，预订的；缄默的，冷淡的，高冷的；包租的 - reticent adj. 沉默的；有保留的；谨慎的     
+puerile adj. 幼稚的；孩子气的；未成熟的；天真的     
+solicitous adj. 热切期望的；热心的；挂念的    
+ostentatious adj. 招摇的；卖弄的；夸耀的；铺张的；惹人注目的     
+picayune adj. 不值钱的；眼光狭小的；微不足道的 n. 无价值之物；西班牙小币 - trifling adj. 微不足道的；轻浮的 v. 浪费，闲聊    
+ingrained adj. 根深蒂固的；彻头彻尾的；生染的 v. 使根深蒂固（ingrain的过去分词形式）；生染；就原料染色 - indelible adj. 难忘的；擦不掉的    
+moribund adj. 垂死的；停滞不前的 n. 垂死的人      
+impervious adj. 不受影响的，无动于衷的；不能渗透的    
+reticence n. 沉默寡言    
+constituency n. （选区的）选民；支持者；（一批）顾客    
 
 
 
