@@ -240,6 +240,31 @@ moribund adj. 垂死的；停滞不前的 n. 垂死的人
 impervious adj. 不受影响的，无动于衷的；不能渗透的    
 reticence n. 沉默寡言    
 constituency n. （选区的）选民；支持者；（一批）顾客    
+reclusive adj. 隐居的；隐遁的    
+abhor vt. 痛恨，憎恶 - detest vt. 厌恶；憎恨     
+protean adj. 千变万化的；一人演几个角色的；变形虫的    
+quixotic adj. 唐吉诃德式的；狂想家的；愚侠的    
+mediocre adj. 普通的；平凡的；中等的    
+bedazzle vt. 使困惑；使着迷；使混乱     
+confound vt. 使混淆；挫败；讨厌；使混乱    
+weary adj. 疲倦的；厌烦的；令人厌烦的 vi. 疲倦；厌烦 vt. 使疲倦；使厌烦     
+compliant adj. 顺从的；服从的；应允的 - docile adj. 温顺的，驯服的；容易教的    
+mercurial adj. 水银的；水星的；墨丘利神的；雄辩机智的；活泼善变的 n. 汞剂；水银剂 - volatile adj. [化学] 挥发性的；不稳定的；爆炸性的；反复无常的
+n. 挥发物；有翅的动物     
+magnanimous adj. 宽宏大量的；有雅量的；宽大的      
+taciturn adj. 沉默寡言的；无言的，不太说话的     
+intractable adj. 棘手的；难治的；倔强的；不听话的     
+morbid adj. 病态的；由病引起的；恐怖的；病变部位的    
+didactic adj. 说教的；教诲的    
+pedantic adj. 迂腐的；学究式的；卖弄学问的；假装学者的   
+flippant adj. 轻率的；嘴碎的；没礼貌的 - facetious adj. 诙谐的；爱开玩笑的；滑稽的；(尤指在不合适的时候)开玩笑的     
+reticent adj. 沉默的；有保留的；谨慎的     
+profundity n. 深刻；深度；深奥     
+inclusiveness n. 包容；包容性    
+
+
+
+
 
 
 
