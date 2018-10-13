@@ -261,6 +261,20 @@ flippant adj. 轻率的；嘴碎的；没礼貌的 - facetious adj. 诙谐的；
 reticent adj. 沉默的；有保留的；谨慎的     
 profundity n. 深刻；深度；深奥     
 inclusiveness n. 包容；包容性    
+querulous adj. 易怒的，暴躁的；爱发牢骚的，抱怨的；爱挑剔的     
+diffident adj. 羞怯的；缺乏自信的；谦虚谨慎的     
+aplomb n. 沉着；垂直；泰然自若   
+languor n. 疲倦；无精打采；柔情；呆滞 vi. 变得衰弱无力      
+decorum n. 礼仪；礼貌；端正；恪守礼仪   
+detrimental adj. 不利的；有害的 n. 有害的人（或物）；不受欢迎的求婚者     
+tangential adj. [数] 切线的，[数] 正切的；离题的，扯远的 n. 正切，切线     
+indispensable adj. 不可缺少的；绝对必要的；责无旁贷的 n. 不可缺少之物；必不可少的人     
+dissemination n. 宣传；散播；传染（病毒）     
+euphonious adj. 悦耳的 - melodious adj. 悦耳的；旋律优美的    
+cacophonous adj. 粗腔横调的；发音不和谐的 - strident adj. 刺耳的；尖锐的；吱吱尖叫的；轧轧作响的    
+inaudible adj. 听不见的；不可闻的     
+
+
 
 
 
