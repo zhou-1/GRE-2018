@@ -273,8 +273,13 @@ dissemination n. 宣传；散播；传染（病毒）
 euphonious adj. 悦耳的 - melodious adj. 悦耳的；旋律优美的    
 cacophonous adj. 粗腔横调的；发音不和谐的 - strident adj. 刺耳的；尖锐的；吱吱尖叫的；轧轧作响的    
 inaudible adj. 听不见的；不可闻的     
-
-
+intricate adj. 复杂的；错综的，缠结的 - convoluted adj. 复杂的；费解的；旋绕的 v. 盘绕；缠绕     
+discrete adj. 离散的，不连续的 n. 分立元件；独立部件    
+vacuous adj. 空的；空虚的；空洞的；无意义的    
+imposition n. 征收；强加；欺骗；不公平的负担 - levy n. 征收；征兵，征税 vt. 征收（税等）；征集（兵等）；发动（战争） vi. 征税；征兵    
+census vt. 实施统计调查 n. 人口普查，人口调查     
+nose-count n. 人口调查；清点人数    
+enumeration n. 列举；[数] 计算；细目    
 
 
 
