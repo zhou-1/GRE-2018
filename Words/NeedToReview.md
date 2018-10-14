@@ -280,6 +280,19 @@ imposition n. 征收；强加；欺骗；不公平的负担 - levy n. 征收；�
 census vt. 实施统计调查 n. 人口普查，人口调查     
 nose-count n. 人口调查；清点人数    
 enumeration n. 列举；[数] 计算；细目    
+surmise vt. 猜测；推测 vi. 猜测；认为 n. 推测；猜度     
+chronicle n. 编年史，年代记；记录 vt. 记录；把…载入编年史      
+fanatically adv. 盲信地；狂热地     
+zealot n. 狂热者；犹太教狂热信徒     
+maverick n. 没打烙印的动物；持不同意见的人 vt. 用不正当手段获取 vi. 迷途；背离 adj. 未打烙印的；行为不合常规的；特立独行的     
+rebel vi. 反叛；反抗；造反 n. 反叛者；叛徒 adj. 反抗的；造反的     
+provincial adj. 省的；地方性的；偏狭的 n. 粗野的人；乡下人；外地人     
+altruistic adj. 利他的；无私心的     
+outbreak n. （战争的）爆发；（疾病的）发作 vi. 爆发     
+pandemic adj. （疾病等）（全国、全球i）流行的；普遍的 n. 流行性疾病     
+dissemination n. 宣传；散播；传染（病毒）    
+symptom n. [临床] 症状；征兆      
+fading n. 褪色；衰退；凋谢 v. 使衰落（fade的ing形式）；褪色     
 
 
 
