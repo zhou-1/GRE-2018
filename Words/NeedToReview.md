@@ -3,6 +3,10 @@ odoriferous adj. 臭的，散发气味的；芬芳的
 acoustic adj. 声学的；音响的；听觉的 n. 原声乐器 - aural adj. 听觉的；耳的；气味的；先兆的       
 tactile adj. [生理] 触觉的，有触觉的；能触知的 - tangible adj. 有形的；切实的；可触摸的 n. 有形资产        
 
+oversee vt. 监督；审查；俯瞰；偷看到，无意中看到   
+overwatch vt. 看守；掩护射击；照管    
+overlook vt. 忽略；俯瞰；远眺；检查；高耸于…之上 n. 忽视；眺望      
+
 physician n. [医] 医师；内科医师   
 denunciation 斥责；告发    
 accusation 谴责；控告 - condemnation n. 谴责；定罪；非难的理由；征用         
@@ -298,6 +302,23 @@ lackluster n. 无光泽；暗淡 adj. 无光泽的；平凡的
 primitive adj. 原始的，远古的；简单的，粗糙的 n. 原始人     
 erudite adj. 博学的；有学问的 n. 饱学之士     
 outdated adj. 过时的；旧式的 v. 使过时    
+novelty n. 新奇；新奇的事物；新颖小巧而廉价的物品   
+myriad adj. 无数的；种种的 n. 无数，极大数量；无数的人或物     
+vibrant adj. 振动的；充满生气的；响亮的；战栗的    
+rack n. [机] 齿条；架子；拷问台 vi. 变形；随风飘；小步跑 vt. 折磨；榨取     
+embolden vt. 使有胆量，使大胆     
+exempt vt. 免除；豁免 adj. 被免除的；被豁免的 n. 免税者；被免除义务者     
+concordance n. 调和，一致；用语索引；著作或作家全集的重要用字索引     
+scrutiny n. 详细审查；监视；细看；选票复查    
+dissension n. 纠纷；意见不合；争吵；倾轧     
+bestow vt. 使用；授予；放置；留宿    
+precocious adj. 早熟的；过早发育的 - premature adj. 早产的；不成熟的；比预期早的 n. 早产儿；过早发生的事物     
+callow adj. 年轻而无经验的；羽毛未丰的 - immature adj. 不成熟的；未成熟的；粗糙的    
+articulate vt. 清晰地发（音）；明确有力地表达；用关节连接；使相互连贯 vi. 发音；清楚地讲话；用关节连接起来 adj. 发音清晰的；口才好的；有关节的 n. 【动物学】有节体的动物     
+spartan adj. 斯巴达的；斯巴达式的；（生活方式）简朴的，清苦的 n. 斯巴达人；勇士     
+ascetic adj. 苦行的；禁欲主义的 n. 苦行者；禁欲者     
+insurgent adj. 叛乱的；起义的 n. 叛乱者；起义者     
+pundit n. 专家；博学者；梵文学者      
 
 
 
