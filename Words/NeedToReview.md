@@ -334,7 +334,16 @@ contentiousness 争论
 indigence n. 穷困；贫乏；贫穷     
 aspersion n. 中伤，诽谤；洒水    
 perfidy n. 不诚实；背信弃义 - apostasy n. 变节；脱党；背教      
-
+evasiveness n. 逃避，推诿；模棱两可   
+prose n. 散文；单调 adj. 散文的；平凡的；乏味的 vi. 写散文；乏味地讲话 vt. 把…写成散文     
+forthright adj. 直率的；直截了当的 adv. 直率地；马上；立即 n. 直路     
+conspicuous adj. 显著的；显而易见的 - obtrusive adj. 突出的；强迫人的；冒失的     
+deficient adj. 不足的；有缺陷的；不充分的    
+elliptical adj. 椭圆的；省略的    
+enormous adj. 庞大的，巨大的；凶暴的，极恶的    
+hollow adj. 空的；中空的，空腹的；凹的；虚伪的 n. 洞；山谷；窟窿 vt. 使成为空洞     
+deafening adj. 震耳欲聋的；极喧闹的 v. 使…聋（deafen的ing形式） n. 隔音     
+resonance n. [力] 共振；共鸣；反响       
 
 
 
