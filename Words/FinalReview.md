@@ -14,3 +14,12 @@ esoteric 神秘的；限于少数人的
 maladroit 笨拙的    
 timid 胆怯的；腼腆的    
 zesty 开胃的；刺激的    
+chary 小心的；吝啬的    
+choleric 暴躁的，易怒的；胆汁质的      
+garish 过分鲜艳的   
+debonair 穿着处事富贵精致的    
+scathing 严厉的   
+glib 油嘴滑舌不严肃的     
+rant 咆哮，痛骂，大声责骂    
+inane 非常愚蠢的    
+
