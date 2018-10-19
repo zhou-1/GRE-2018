@@ -1,0 +1,15 @@
+vaunt 吹嘘；炫耀     
+irate 发怒的，愤怒的     
+coop 小笼子，鸡笼，小屋；把。。。关进笼子里，限制，拘禁      
+vapid 索然无味的，毫无生气的     
+sunder 切开；分裂    
+pithy 精练的，简洁有力的     
+affix 附加物；词缀；黏上；署名      
+daft 愚蠢的     
+indulgent 放纵的，任性的      
+provident 节俭的；深谋远虑的     
+fitful 间歇的；不定的    
+pertain 有关；适合    
+esoteric 神秘的；限于少数人的       
+maladroit 笨拙的    
+
