@@ -12,4 +12,5 @@ fitful 间歇的；不定的
 pertain 有关；适合    
 esoteric 神秘的；限于少数人的       
 maladroit 笨拙的    
-
+timid 胆怯的；腼腆的    
+zesty 开胃的；刺激的    
