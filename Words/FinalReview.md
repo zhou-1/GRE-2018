@@ -144,4 +144,5 @@ stouthearted 勇敢的，大胆的
 jitters 神经过敏     
 piddling 琐碎的；不重要的    
 jarring 刺耳的；震动      
+mortality 死亡率，必死性     
 
