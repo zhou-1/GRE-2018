@@ -15,7 +15,8 @@ be 使...称为
 bene 善意，好       
 bland 温和的      
 canon 教规     
-capt 挑剔，挑拣    
+capt 挑剔，挑拣     
+captiv 俘虏，迷惑    
 chauvin 沙文主义（盲目爱国）      
 con 表示加强；一起，共同       
 cor 加强       
