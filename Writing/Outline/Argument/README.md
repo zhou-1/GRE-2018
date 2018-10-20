@@ -4,3 +4,5 @@
 
 新版GRE写作新题库：Argument      
 https://liuxue.hujiang.com/gre/writing/page2/    
+
+https://liuxue.hujiang.com/gre/writing/    
