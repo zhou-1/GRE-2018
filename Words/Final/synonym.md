@@ -31,6 +31,8 @@ violate - contravene - flout - breach - defy - transgress
 3. 抑制；控制    
 contain - repress - stifle - restrain - curb - rein in     
 
+4. 轻视；鄙视；蔑视   
+belittle - despise - 
 
 
 # Noun
@@ -49,5 +51,7 @@ canon - doctrine - criterion - tenet - yardstick - dogma
 5. 轨道    
 orbit - path - course - circuit - track - trajectory    
 
+6. 外行；业余爱好者   
+amateur - dilettante  
 
 
