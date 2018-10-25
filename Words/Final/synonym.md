@@ -73,6 +73,17 @@ tenable (（主张等）站得住脚的；可维持的) - impeccable - unimpeach
 虚构的    
 mythical (神话的) - imaginary (假想的；想像的；虚数的) - fabled (寓言中的) - mythological (神话的；神话学的） - fictive (想象上的；虚伪的)    
 
+错误的   
+errorneous - inaccurate -    
+
+淘气的  
+mischievous (恶作剧的；有害的) -       
+
+被抛弃的  
+jettisoned - abandoned (无约束的；恣意放荡的；寡廉鲜耻的) - forsaken (孤独凄凉的) - castaway (n. 被抛弃的人；坐船遇难者；漂流者) - 
+
+漂流的；飘动的   
+drifting (n. 漂流；漂流物) - seaborne (海上运输的) -     
 
 
 
@@ -87,7 +98,7 @@ violate - contravene - flout - breach - defy - transgress
 contain - repress - stifle - restrain - curb - rein in     
 
 轻视；鄙视；蔑视   
-belittle - despise -   
+belittle - despise - disparage (诽谤) -     
 
 卓越；杰出    
 preeminence - dominance (优势；统治；支配) -    
@@ -116,6 +127,16 @@ prevail (战胜，获胜) -
 报答    
 reciprocate (互换，往复运动) - repay -       
 
+毁坏   
+perish ( 使麻木； vi. 死亡；毁灭；腐烂；枯萎) - sabotage (vt. 妨害；对…采取破坏行动 vi. 从事破坏活动 n. 破坏；破坏活动；怠工) - decimation n. 大批杀害；每十人杀一人；大量毁灭 - devastation (荒废) -        
+
+指责   
+impugn (抨击；反驳；对…表示怀疑) - censure -   
+
+平息
+appease (使满足；使和缓；对…让步) - mollify (缓和；使…平静；使…变软) -       
+
+
 
 
 # Noun
@@ -141,7 +162,13 @@ amateur - dilettante
 intention(意向；愈合) - 
 
 离题   
-digression (脱轨) - stray (vi. 流浪；迷路；偏离 adj. 迷路的；离群的；偶遇的 n. 走失的家畜；流浪者)   
+digression (脱轨) - stray (vi. 流浪；迷路；偏离 adj. 迷路的；离群的；偶遇的 n. 走失的家畜；流浪者)     
 
+侦察   
+reconnaissance (勘测（等于reconnoissance）；搜索；事先考查) - scout (n. 侦察员；侦察机 vt. 侦察；跟踪，监视；发现 vi. 侦察；巡视；嘲笑) - reconnoitre (v. 侦察；勘探 n. 侦察；踏勘) -   
 
+碎片废料   
+flotsam (漂流货物；浮货；零碎物) - debris (残骸) -    
 
+衣服   
+raiment -  
