@@ -46,6 +46,9 @@ edifying - heuristic -
 热情的    
 ebullient (沸腾的) - effusive (流出的；感情横溢的) - enthusiastic - zealous -     
 
+冷漠的   
+apathetic (无动于衷的) - phlegmatic (迟钝的) - indifferent (中性的) - offish (疏远的) - unbending (坚定的；不易弯曲的) - bland (乏味的；温和的) -    
+
 不可救药的    
 incorrigible - irredeemable (不能赎回的；[金融] 不能兑现的) -     
 
@@ -62,7 +65,12 @@ dispassionate (平心静气的) - unjaundiced -
 arcane (神秘的；秘传的) - esoteric(秘传的；限于圈内人的)    
 
 反复无常的   
-capricious (任性的) - inconstant - crotchety (有怪想的，想入非非的) - moonish (如月的) - chameleonic (像变色龙的；轻浮的)    
+capricious (任性的) - inconstant - crotchety (有怪想的，想入非非的) - moonish (如月的) - chameleonic (像变色龙的；轻浮的)     
+
+-   
+
+善变的   
+mercurial (水银的；水星的；墨丘利神的；雄辩机智的) - fickle (浮躁的) - 
 
 脆弱的  
 insubstantial(无实体的；幻想的，非真实的) - tender(温柔的；柔软的) - brittle(易碎的；易生气的) - frail(虚弱的；n. 灯心草篓；少妇；少女) - flimsy(浅薄的；易损坏的；不周密的; n. 薄纸；复写纸；打字纸)        
@@ -84,6 +92,12 @@ jettisoned - abandoned (无约束的；恣意放荡的；寡廉鲜耻的) - fors
 
 漂流的；飘动的   
 drifting (n. 漂流；漂流物) - seaborne (海上运输的) -     
+
+脾气坏的   
+cantankerous - narky (讽刺的) - grumpy - churlish (没有礼貌的) -    
+
+仁慈的，慈善的    
+benevolent - charitable (慷慨的) - beneficent - philanthropic (博爱的) - 
 
 
 
@@ -159,13 +173,19 @@ orbit - path - course - circuit - track - trajectory
 amateur - dilettante  
 
 意图，目的   
-intention(意向；愈合) - 
+intention(意向；愈合) -    
+
+观点   
+outlook (展望；景色) - 
 
 离题   
 digression (脱轨) - stray (vi. 流浪；迷路；偏离 adj. 迷路的；离群的；偶遇的 n. 走失的家畜；流浪者)     
 
 侦察   
-reconnaissance (勘测（等于reconnoissance）；搜索；事先考查) - scout (n. 侦察员；侦察机 vt. 侦察；跟踪，监视；发现 vi. 侦察；巡视；嘲笑) - reconnoitre (v. 侦察；勘探 n. 侦察；踏勘) -   
+reconnaissance (勘测（等于reconnoissance）；搜索；事先考查) - scout (n. 侦察员；侦察机 vt. 侦察；跟踪，监视；发现 vi. 侦察；巡视；嘲笑) - reconnoitre (v. 侦察；勘探 n. 侦察；踏勘) -     
+
+性情，脾气    
+disposition (处置；[军] 部署；倾向) - temperament (气质，性格；急躁) - 
 
 碎片废料   
 flotsam (漂流货物；浮货；零碎物) - debris (残骸) -    
