@@ -10,7 +10,8 @@ terrestrial - earthly - worldly - mundane
 含糊的，不明确的   
 vague - nebulous - imprecise - ambiguous - obscure - equivocal       
 
-明确的
+明确的   
+unequivocal - unambiguous - explicit (直率的；详述的)    
 
 善于观察的，敏锐的     
 observant - discerning - acute - astute - aware - perspicacious    
@@ -33,11 +34,27 @@ succinct - concise - compendious - laconic
 详细的   
 elaborate - minute    
 
+贫乏的   
+tenuous(纤细的；稀薄的) -   
+
 刺激的    
 provocative - irritative - incitant    
 
 启发性的    
-edifying - heuristic - 
+edifying - heuristic -     
+
+热情的    
+ebullient (沸腾的) - effusive (流出的；感情横溢的) - enthusiastic - zealous -     
+
+不可救药的    
+incorrigible - irredeemable (不能赎回的；[金融] 不能兑现的) -     
+
+贫困的   
+indigent - impoverished - needy      
+
+吸引人的   
+spellbinding - intriguing (有趣的) - alluring (诱惑的)    
+
 
 
 # Verb
@@ -65,6 +82,22 @@ prescience - prognosis
 节省   
 retrenchment (删除) - spare (v.吝惜；饶恕；分出 adj.多余的；瘦的；少量的 n. 剩余；备用零件)         
 
+曲解，误解    
+misinterpret     
+
+污染，弄脏   
+contaminate - pollute   
+
+浸透使湿透    
+saturate - soakage - endosmosis (细胞内浸透) - permeation (湿透) - percolation (过滤)     
+
+流行，盛行    
+prevail (战胜，获胜) -    
+
+报答    
+reciprocate (互换，往复运动) - repay -       
+
+
 
 # Noun
 开口  
@@ -85,4 +118,6 @@ orbit - path - course - circuit - track - trajectory
 外行；业余爱好者   
 amateur - dilettante  
 
+意图，目的   
+intention(意向；愈合) - 
 
