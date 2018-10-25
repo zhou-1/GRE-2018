@@ -67,6 +67,13 @@ capricious (任性的) - inconstant - crotchety (有怪想的，想入非非的)
 脆弱的  
 insubstantial(无实体的；幻想的，非真实的) - tender(温柔的；柔软的) - brittle(易碎的；易生气的) - frail(虚弱的；n. 灯心草篓；少妇；少女) - flimsy(浅薄的；易损坏的；不周密的; n. 薄纸；复写纸；打字纸)        
 
+无懈可击的  
+tenable (（主张等）站得住脚的；可维持的) - impeccable - unimpeachable (无可指责的；无可怀疑的；无过失的，无罪的) - invulnerable (不会受伤害的) - unassailable (不容置疑的)       
+
+虚构的    
+mythical (神话的) - imaginary (假想的；想像的；虚数的) - fabled (寓言中的) - mythological (神话的；神话学的） - fictive (想象上的；虚伪的)    
+
+
 
 
 # Verb
@@ -95,7 +102,7 @@ prescience - prognosis
 retrenchment (删除) - spare (v.吝惜；饶恕；分出 adj.多余的；瘦的；少量的 n. 剩余；备用零件)         
 
 曲解，误解    
-misinterpret     
+misinterpret - misconception (n.) -    
 
 污染，弄脏   
 contaminate - pollute   
@@ -132,4 +139,9 @@ amateur - dilettante
 
 意图，目的   
 intention(意向；愈合) - 
+
+离题   
+digression (脱轨) - stray (vi. 流浪；迷路；偏离 adj. 迷路的；离群的；偶遇的 n. 走失的家畜；流浪者)   
+
+
 
