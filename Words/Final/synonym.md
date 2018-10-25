@@ -55,6 +55,14 @@ indigent - impoverished - needy
 吸引人的   
 spellbinding - intriguing (有趣的) - alluring (诱惑的)    
 
+客观公正的     
+dispassionate (平心静气的) - unjaundiced -    
+
+晦涩难懂的    
+arcane (神秘的；秘传的) - esoteric(秘传的；限于圈内人的)    
+
+反复无常的   
+capricious (任性的) - inconstant - crotchety (有怪想的，想入非非的) - moonish (如月的) - chameleonic (像变色龙的；轻浮的)    
 
 
 # Verb
