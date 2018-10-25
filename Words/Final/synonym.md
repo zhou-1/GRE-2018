@@ -2,10 +2,7 @@
 
 # Adj
 杰出的，著名的      
-prominent - eminent       
-
-地球的，陆地的   
-terrestrial - earthly - worldly - mundane       
+prominent - eminent          
 
 含糊的，不明确的   
 vague - nebulous - imprecise - ambiguous - obscure - equivocal       
@@ -27,6 +24,12 @@ composed - unperturbed - collected - calm - imperturbable - unflappable - serene
 
 业余的    
 amateurish - extracurricular     
+
+内敛的  
+recessive adj. 隐性的；逆行的；后退的 - introverted adj. 内向的 - reserved 保留的，预订的；高冷的 -      
+
+突出的   
+obtrusive (强迫人的；冒失的) - salient (显著的；跳跃的) - protruding (伸出的) -     
 
 有鉴赏力的   
 discriminating      
@@ -104,13 +107,26 @@ jettisoned - abandoned (无约束的；恣意放荡的；寡廉鲜耻的) - fors
 drifting (n. 漂流；漂流物) - seaborne (海上运输的) -     
 
 脾气坏的   
-cantankerous - narky (讽刺的) - grumpy - churlish (没有礼貌的) -    
+cantankerous - narky (讽刺的) - grumpy - churlish (没有礼貌的) -      
+
+严格的   
+stringent (紧缩的；短缺的) - rigorous (严密的；严酷的) - rigid (僵硬的，死板的；坚硬的；精确的) - exacting (苛求的；吃力的
+v. 逼取；急需) - 
 
 仁慈的，慈善的    
 benevolent - charitable (慷慨的) - beneficent - philanthropic (博爱的) - 
 
+有条件的   
+contingent (adj. 因情况而异的；不一定的；可能的；n. 偶然事件；代表团) -  conditional -    
+
 腐蚀性的    
 corrosive - caustic (苛性的；刻薄的) - amyctic (刺激性的) -   
+
+杂交的    
+hybrid (n. 杂种，混血儿；混合物 adj. 混合的) - mongrel (n. 杂种；混血儿；杂种动物 adj. 混血儿的) - 
+
+地球的，陆地的   
+terrestrial - earthly - worldly - mundane    
 
 
 # Verb
@@ -184,6 +200,9 @@ canon - doctrine - criterion - tenet - yardstick - dogma
 轨道    
 orbit - path - course - circuit - track - trajectory    
 
+先驱   
+precursor - harbinger (n. 前兆；预告者 vt. 预告) - herald (n. 预兆，征兆；传令官；报信者 vt. 通报；预示…的来临) - forerunner (n. 预兆) - avant-courier -      
+
 外行；业余爱好者   
 amateur - dilettante  
 
@@ -201,6 +220,9 @@ reconnaissance (勘测（等于reconnoissance）；搜索；事先考查) - scou
 
 性情，脾气    
 disposition (处置；[军] 部署；倾向) - temperament (气质，性格；急躁) - 
+
+误称    
+misnomer (n. 用词不当；写错姓名) - miscall -     
 
 碎片废料   
 flotsam (漂流货物；浮货；零碎物) - debris (残骸) -    
