@@ -11,7 +11,10 @@ terrestrial - earthly - worldly - mundane
 vague - nebulous - imprecise - ambiguous - obscure - equivocal       
 
 明确的   
-unequivocal - unambiguous - explicit (直率的；详述的)    
+unequivocal - unambiguous - explicit (直率的；详述的)       
+
+真诚的   
+ingenuous (天真的；坦白的) - genuine (真实的，真正的) -     
 
 善于观察的，敏锐的     
 observant - discerning - acute - astute - aware - perspicacious    
@@ -34,8 +37,17 @@ succinct - concise - compendious - laconic
 详细的   
 elaborate - minute    
 
+豪华的   
+lush (丰富的；苍翠繁茂的) - grand (宏伟的；极重要的) - plush (长毛绒做的；舒服的) - pompous (自大的；浮夸的；华而不实的；爱炫耀的) -    
+
 贫乏的   
 tenuous(纤细的；稀薄的) -   
+
+荒凉的   
+desolate (无人烟的) - stark (完全的；刻板的；光秃秃的；朴实的) - bleak (阴冷的；无遮蔽的；黯淡的，无希望的；冷酷的；单调的) - lorn (被弃的；孤独的) -     
+
+肥沃的   
+fecund (多产的；丰饶的；生殖力旺盛的) - fertile (能生育的) - loamy - luxuriant (繁茂的；丰富的；奢华的) -   
 
 刺激的    
 provocative - irritative - incitant    
@@ -65,9 +77,7 @@ dispassionate (平心静气的) - unjaundiced -
 arcane (神秘的；秘传的) - esoteric(秘传的；限于圈内人的)    
 
 反复无常的   
-capricious (任性的) - inconstant - crotchety (有怪想的，想入非非的) - moonish (如月的) - chameleonic (像变色龙的；轻浮的)     
-
--   
+capricious (任性的) - inconstant - crotchety (有怪想的，想入非非的) - moonish (如月的) - chameleonic (像变色龙的；轻浮的)      
 
 善变的   
 mercurial (水银的；水星的；墨丘利神的；雄辩机智的) - fickle (浮躁的) - 
@@ -99,6 +109,8 @@ cantankerous - narky (讽刺的) - grumpy - churlish (没有礼貌的) -
 仁慈的，慈善的    
 benevolent - charitable (慷慨的) - beneficent - philanthropic (博爱的) - 
 
+腐蚀性的    
+corrosive - caustic (苛性的；刻薄的) - amyctic (刺激性的) -   
 
 
 # Verb
@@ -118,7 +130,10 @@ belittle - despise - disparage (诽谤) -
 preeminence - dominance (优势；统治；支配) -    
 
 聚集   
-aggregation     
+aggregation      
+
+蔓延   
+sprawl (伸开手足躺；无计划地扩展) -    
 
 预兆，预示   
 prescience - prognosis      
