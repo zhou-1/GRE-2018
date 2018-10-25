@@ -64,6 +64,10 @@ arcane (神秘的；秘传的) - esoteric(秘传的；限于圈内人的)
 反复无常的   
 capricious (任性的) - inconstant - crotchety (有怪想的，想入非非的) - moonish (如月的) - chameleonic (像变色龙的；轻浮的)    
 
+脆弱的  
+insubstantial(无实体的；幻想的，非真实的) - tender(温柔的；柔软的) - brittle(易碎的；易生气的) - frail(虚弱的；n. 灯心草篓；少妇；少女) - flimsy(浅薄的；易损坏的；不周密的; n. 薄纸；复写纸；打字纸)        
+
+
 
 # Verb
 调查；探究    
