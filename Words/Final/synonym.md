@@ -11,10 +11,16 @@ vague - nebulous - imprecise - ambiguous - obscure - equivocal
 unequivocal - unambiguous - explicit (直率的；详述的)       
 
 真诚的   
-ingenuous (天真的；坦白的) - genuine (真实的，真正的) -     
+ingenuous (天真的；坦白的) - genuine (真实的，真正的) -        
+
+可信的   
+plausible - authentic (真正的) - credible (可靠的) - receivable (可接受的) -       
 
 善于观察的，敏锐的     
-observant - discerning - acute - astute - aware - perspicacious    
+observant - discerning - acute - astute - aware - perspicacious      
+
+悲哀的，不高兴的      
+lugubrious - mournful - woeful - downcast - sullen - grouchy - verjuiced (酸的) -    
 
 多余的，过剩的   
 redundant - unnecessary - superfluous - surplus - extra - excessive     
@@ -43,8 +49,14 @@ elaborate - minute
 豪华的   
 lush (丰富的；苍翠繁茂的) - grand (宏伟的；极重要的) - plush (长毛绒做的；舒服的) - pompous (自大的；浮夸的；华而不实的；爱炫耀的) -    
 
+艰苦的   
+painstaking (勤勉的；小心的) - arduous (费力的；险峻的) - laborious (勤劳的；费劲的) -        
+
 贫乏的   
-tenuous(纤细的；稀薄的) -   
+tenuous(纤细的；稀薄的) -     
+
+丰富的   
+prolific (多产的) - ample (足够的；宽敞的) - lavish (浪费的；大方的) - affluent (富裕的；流畅的)       
 
 荒凉的   
 desolate (无人烟的) - stark (完全的；刻板的；光秃秃的；朴实的) - bleak (阴冷的；无遮蔽的；黯淡的，无希望的；冷酷的；单调的) - lorn (被弃的；孤独的) -     
@@ -83,7 +95,10 @@ arcane (神秘的；秘传的) - esoteric(秘传的；限于圈内人的)
 capricious (任性的) - inconstant - crotchety (有怪想的，想入非非的) - moonish (如月的) - chameleonic (像变色龙的；轻浮的)      
 
 善变的   
-mercurial (水银的；水星的；墨丘利神的；雄辩机智的) - fickle (浮躁的) - 
+mercurial (水银的；水星的；墨丘利神的；雄辩机智的) - fickle (浮躁的) -     
+
+固执的   
+wrongheaded (坚持错误的) - stubborn - tenacious - ramstam (任性的) - froward (刚愎的；难驾驭的) - bigoted (心地狭窄的；盲从的) - obstinate (倔强的；难以控制的) - adamant (坚强的；坚定不移的；坚硬无比的) - persistent      
 
 脆弱的  
 insubstantial(无实体的；幻想的，非真实的) - tender(温柔的；柔软的) - brittle(易碎的；易生气的) - frail(虚弱的；n. 灯心草篓；少妇；少女) - flimsy(浅薄的；易损坏的；不周密的; n. 薄纸；复写纸；打字纸)        
@@ -114,10 +129,19 @@ stringent (紧缩的；短缺的) - rigorous (严密的；严酷的) - rigid (�
 v. 逼取；急需) - 
 
 仁慈的，慈善的    
-benevolent - charitable (慷慨的) - beneficent - philanthropic (博爱的) - 
+benevolent - charitable (慷慨的) - beneficent - philanthropic (博爱的) -      
+
+田园的   
+bucolic - idyllic - rural - villatic (别墅的) - pastorale -      
+
+比喻性的   
+metaphorical - figurative -     
 
 有条件的   
 contingent (adj. 因情况而异的；不一定的；可能的；n. 偶然事件；代表团) -  conditional -    
+
+好战的   
+militant - belligerent - bellicose - combative - trigger-happy (乱开枪的) -    
 
 腐蚀性的    
 corrosive - caustic (苛性的；刻薄的) - amyctic (刺激性的) -   
@@ -134,7 +158,10 @@ terrestrial - earthly - worldly - mundane
 probe - delve - explore - inquire - investigate - scrutinize    
 
 违背；违反    
-violate - contravene - flout - breach - defy - transgress      
+violate - contravene - flout - breach - defy - transgress    
+
+促进   
+facilitate (帮助；使容易) -   
 
 抑制；控制    
 contain - repress - stifle - restrain - curb - rein in     
@@ -181,6 +208,9 @@ impugn (抨击；反驳；对…表示怀疑) - censure -
 平息
 appease (使满足；使和缓；对…让步) - mollify (缓和；使…平静；使…变软) -       
 
+养育    
+foster (v. 抱（希望等）adj. 收养的，养育的) - nourish vt. 滋养；怀有；使健壮 -     
+
 
 
 
@@ -219,7 +249,10 @@ digression (脱轨) - stray (vi. 流浪；迷路；偏离 adj. 迷路的；离�
 reconnaissance (勘测（等于reconnoissance）；搜索；事先考查) - scout (n. 侦察员；侦察机 vt. 侦察；跟踪，监视；发现 vi. 侦察；巡视；嘲笑) - reconnoitre (v. 侦察；勘探 n. 侦察；踏勘) -     
 
 性情，脾气    
-disposition (处置；[军] 部署；倾向) - temperament (气质，性格；急躁) - 
+disposition (处置；[军] 部署；倾向) - temperament (气质，性格；急躁) -     
+
+抗议   
+remonstrance - protest (断言) -     
 
 误称    
 misnomer (n. 用词不当；写错姓名) - miscall -     
