@@ -82,6 +82,9 @@ ebullient (沸腾的) - effusive (流出的；感情横溢的) - enthusiastic - 
 冷漠的   
 apathetic (无动于衷的) - phlegmatic (迟钝的) - indifferent (中性的) - offish (疏远的) - unbending (坚定的；不易弯曲的) - bland (乏味的；温和的) -    
 
+有害的，不利的      
+detrimental - baleful (恶意的) - pernicious (恶性的；致命的；险恶的) - noxious (有毒的；败坏道德的；讨厌的) -     
+
 不可救药的    
 incorrigible - irredeemable (不能赎回的；[金融] 不能兑现的) -     
 
@@ -171,7 +174,10 @@ contingent (adj. 因情况而异的；不一定的；可能的；n. 偶然事件
 militant - belligerent - bellicose - combative - trigger-happy (乱开枪的) -    
 
 腐蚀性的    
-corrosive - caustic (苛性的；刻薄的) - amyctic (刺激性的) -   
+corrosive - caustic (苛性的；刻薄的) - amyctic (刺激性的) -    
+
+没有关联的   
+irrelevant - extraneous (外来的) -     
 
 杂交的    
 hybrid (n. 杂种，混血儿；混合物 adj. 混合的) - mongrel (n. 杂种；混血儿；杂种动物 adj. 混血儿的) - 
@@ -259,8 +265,8 @@ preeminence - dominance (优势；统治；支配) -
 定式思维，陈规的想法   
 stereotype - formula - cliche - pattern     
 
-边缘，外围    
-periphery - boundary - circumference - edge - margin - fringe     
+边缘，外围；界限      
+periphery - boundary - circumference - edge - margin - fringe - confine (v.) -     
 
 标准；准则     
 canon - doctrine - criterion - tenet - yardstick - dogma     
