@@ -38,7 +38,10 @@ recessive adj. 隐性的；逆行的；后退的 - introverted adj. 内向的 - 
 obtrusive (强迫人的；冒失的) - salient (显著的；跳跃的) - protruding (伸出的) -     
 
 有鉴赏力的   
-discriminating      
+discriminating        
+
+困难的   
+knotty (棘手的) - man-sized (大型的；宜于成年男人的) - untoward (不幸的；麻烦的；倔强的) - arduous (努力的；费力的) - complicated -   
 
 简明的   
 succinct - concise - compendious - laconic     
@@ -181,8 +184,8 @@ contain - repress - stifle - restrain - curb - rein in
 轻视；鄙视；蔑视   
 belittle - despise - disparage (诽谤) -     
 
-卓越；杰出    
-preeminence - dominance (优势；统治；支配) -    
+使...困惑   
+baffle (使…受挫折；用挡板控制) - bewilderment n. - perplex - bewildered (眩晕) - 
 
 聚集   
 aggregation      
@@ -191,7 +194,10 @@ aggregation
 sprawl (伸开手足躺；无计划地扩展) -    
 
 预兆，预示   
-prescience - prognosis      
+prescience - prognosis        
+
+组成，构成   
+constitute - compose (写作；使平静；排…的版) - comprise (包含) -     
 
 节省   
 retrenchment (删除) - spare (v.吝惜；饶恕；分出 adj.多余的；瘦的；少量的 n. 剩余；备用零件)         
@@ -233,7 +239,10 @@ chicanery (狡辩；强词夺理) - hoax (v.愚弄) - deceive (v.) - fraud -
 vent - outlet - aperture      
 
 博学   
-erudition / erudite (adj.) / eruditely (adv.)      
+erudition / erudite (adj.) / eruditely (adv.)        
+
+卓越；杰出    
+preeminence - dominance (优势；统治；支配) -      
 
 定式思维，陈规的想法   
 stereotype - formula - cliche - pattern     
@@ -251,7 +260,13 @@ orbit - path - course - circuit - track - trajectory
 precursor - harbinger (n. 前兆；预告者 vt. 预告) - herald (n. 预兆，征兆；传令官；报信者 vt. 通报；预示…的来临) - forerunner (n. 预兆) - avant-courier -      
 
 外行；业余爱好者   
-amateur - dilettante  
+amateur - dilettante     
+
+无忧无忧
+insouciance - blithe (愉快的) -    
+
+敏捷，轻快   
+alacrity - agility (灵活) -    
 
 意图，目的   
 intention(意向；愈合) -    
@@ -279,3 +294,8 @@ flotsam (漂流货物；浮货；零碎物) - debris (残骸) -
 
 衣服   
 raiment -  
+
+学派   
+stoicism 斯多葛哲学，斯多葛学派；恬淡寡欲      
+
+
