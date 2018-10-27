@@ -19,8 +19,8 @@ plausible - authentic (真正的) - credible (可靠的) - receivable (可接受
 善于观察的，敏锐的     
 observant - discerning - acute - astute - aware - perspicacious      
 
-悲哀的，不高兴的      
-lugubrious - mournful - woeful - downcast - sullen - grouchy - verjuiced (酸的) -    
+悲哀的，不高兴的，痛苦的         
+lugubrious - mournful - woeful - downcast - sullen - grouchy - verjuiced (酸的) - distressing - miserable - anguished - grievous (剧烈的) - torturous (折磨人的) -         
 
 多余的，过剩的   
 redundant - unnecessary - superfluous - surplus - extra - excessive     
@@ -44,7 +44,7 @@ discriminating
 knotty (棘手的) - man-sized (大型的；宜于成年男人的) - untoward (不幸的；麻烦的；倔强的) - arduous (努力的；费力的) - complicated -   
 
 沮丧的
-disheartening - depressed - spiritless - downcast - dejected - blue (蓝色的；下流的) - gloomy (黑暗的；阴郁的) - despondent (失望的) - frustrated (失意的，挫败的；泄气的) -    
+disheartening - depressed - spiritless - downcast - dejected - blue (蓝色的；下流的) - gloomy (黑暗的；阴郁的) - despondent (失望的) - frustrated (失意的，挫败的；泄气的) - doleful (寂寞的；悲哀的；阴沉的；忧郁的) -      
 
 简明的   
 succinct - concise - compendious - laconic     
@@ -86,7 +86,10 @@ apathetic (无动于衷的) - phlegmatic (迟钝的) - indifferent (中性的) -
 incorrigible - irredeemable (不能赎回的；[金融] 不能兑现的) -     
 
 贫困的   
-indigent - impoverished - needy      
+indigent - impoverished - needy       
+
+聪明的   
+sagacious - clear-sighted (视力好的) -    
 
 懒惰的    
 indolent - slothful - sluttish - idle -       
@@ -95,7 +98,10 @@ indolent - slothful - sluttish - idle -
 laborious - industrious - diligent - 
 
 吸引人的   
-spellbinding - intriguing (有趣的) - alluring (诱惑的)    
+spellbinding - intriguing (有趣的) - alluring (诱惑的)      
+
+无聊的  
+vapid (无趣味的；无生气的；索然乏味的) - tiresome - humdrum (单调的) - bromidic (陈腐的) -    
 
 客观公正的     
 dispassionate (平心静气的) - unjaundiced -    
@@ -145,6 +151,9 @@ benevolent - charitable (慷慨的) - beneficent - philanthropic (博爱的) -
 
 田园的   
 bucolic - idyllic - rural - villatic (别墅的) - pastorale -     
+
+陈腐的，老旧的     
+banal - fusty - mouldy (发霉的) - mossy (生苔藓的) - stale - hackneyed (平庸的) - outmoded - obsolete - outmoded - antique -      
 
 异常的    
 anomalous - aberrant - exceptional - preternatural -     
