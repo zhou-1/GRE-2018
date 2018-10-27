@@ -82,6 +82,12 @@ incorrigible - irredeemable (不能赎回的；[金融] 不能兑现的) -
 贫困的   
 indigent - impoverished - needy      
 
+懒惰的    
+indolent - slothful - sluttish - idle -       
+
+勤劳的   
+laborious - industrious - diligent - 
+
 吸引人的   
 spellbinding - intriguing (有趣的) - alluring (诱惑的)    
 
@@ -132,7 +138,13 @@ v. 逼取；急需) -
 benevolent - charitable (慷慨的) - beneficent - philanthropic (博爱的) -      
 
 田园的   
-bucolic - idyllic - rural - villatic (别墅的) - pastorale -      
+bucolic - idyllic - rural - villatic (别墅的) - pastorale -     
+
+异常的    
+anomalous - aberrant - exceptional - preternatural -     
+
+永久的   
+perpetuating/perpetual - eternal  
 
 比喻性的   
 metaphorical - figurative -     
