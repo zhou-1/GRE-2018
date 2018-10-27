@@ -43,6 +43,9 @@ discriminating
 困难的   
 knotty (棘手的) - man-sized (大型的；宜于成年男人的) - untoward (不幸的；麻烦的；倔强的) - arduous (努力的；费力的) - complicated -   
 
+沮丧的
+disheartening - depressed - spiritless - downcast - dejected - blue (蓝色的；下流的) - gloomy (黑暗的；阴郁的) - despondent (失望的) - frustrated (失意的，挫败的；泄气的) -    
+
 简明的   
 succinct - concise - compendious - laconic     
 
@@ -165,7 +168,7 @@ corrosive - caustic (苛性的；刻薄的) - amyctic (刺激性的) -
 hybrid (n. 杂种，混血儿；混合物 adj. 混合的) - mongrel (n. 杂种；混血儿；杂种动物 adj. 混血儿的) - 
 
 地球的，陆地的   
-terrestrial - earthly - worldly - mundane    
+terrestrial - earthly - worldly - mundane (世俗的，平凡的) -    
 
 
 # Verb
