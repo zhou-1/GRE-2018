@@ -2,7 +2,10 @@
 
 # Adj
 杰出的，著名的      
-prominent - eminent          
+prominent - eminent       
+
+单调乏味的    
+prosaic (平凡的) - stuffy (闷热的；古板的) - bland (温和的，冷漠的) - dull (笨的;阴沉的) - tedious - watery (湿的) -     
 
 含糊的，不明确的   
 vague - nebulous - imprecise - ambiguous - obscure - equivocal       
@@ -221,8 +224,11 @@ banal - fusty - mouldy (发霉的) - mossy (生苔藓的) - stale - hackneyed (�
 异常的    
 anomalous - aberrant - exceptional - preternatural -     
 
-永久的   
-perpetuating/perpetual - eternal  
+永久的，持久的      
+perpetuating/perpetual - eternal - abiding - enduring (能忍受的) -        
+
+短暂的   
+momentary - evanescent 容易消散的，逐渐消失的 - transitory - unabiding - ephemeral -      
 
 比喻性的   
 metaphorical - figurative -     
