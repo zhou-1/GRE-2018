@@ -8,19 +8,46 @@ prominent - eminent
 vague - nebulous - imprecise - ambiguous - obscure - equivocal       
 
 明确的   
-unequivocal - unambiguous - explicit (直率的；详述的)       
+unequivocal - unambiguous - explicit (直率的；详述的)         
+
+有偏见的   
+tendentious - jaundiced - prejudiced - prejudicial -    
 
 真诚的   
 ingenuous (天真的；坦白的) - genuine (真实的，真正的) -        
+
+难以置信的   
+implausible - incredible (惊人的) - fabulous (传说的；极好的) -      
 
 可信的   
 plausible - authentic (真正的) - credible (可靠的) - receivable (可接受的) -       
 
 善于观察的，敏锐的     
-observant - discerning - acute - astute - aware - perspicacious      
+observant - discerning - acute - astute - aware - perspicacious         
+
+精明的   
+cagey (小心翼翼的) - shrewd - calculative - politic (有策略的；政治的；谨慎的) - astute (狡猾的) - canny (谨慎的；节约的) -     
+
+谨慎的    
+prudential - cautious - discreetly - discreet - wary (考虑周到的) -     
+
+一丝不苟的；细心的     
+punctilious - scrupulous - chary (吝啬的；害羞的) - circumspective - leery (机敏的;猜疑的) -     
+
+滑稽的，可笑的   
+burlesque (滑稽戏) - clownish (似小丑的) - comical - humoristic - waggish - buffo -    
+
+乐观的   
+sanguine (面色红润的) - optimistic - upbeat (上升的) - affirmative (肯定的) - 
+
+高兴的；愉快的    
+exhilarating - jolly - merry (微醺的) - amused (顽皮的) - cheerful - piacevole - 
 
 悲哀的，不高兴的，痛苦的         
-lugubrious - mournful - woeful - downcast - sullen - grouchy - verjuiced (酸的) - distressing - miserable - anguished - grievous (剧烈的) - torturous (折磨人的) -         
+lugubrious - mournful - woeful - downcast - sullen - grouchy - verjuiced (酸的) - distressing - miserable - anguished - grievous (剧烈的) - torturous (折磨人的) -       
+
+沮丧的
+disheartening - depressed - spiritless - downcast - dejected - blue (蓝色的；下流的) - gloomy (黑暗的；阴郁的) - despondent (失望的) - frustrated (失意的，挫败的；泄气的) - doleful (寂寞的；悲哀的；阴沉的；忧郁的) -    
 
 多余的，过剩的   
 redundant - unnecessary - superfluous - surplus - extra - excessive     
@@ -29,22 +56,31 @@ redundant - unnecessary - superfluous - surplus - extra - excessive
 composed - unperturbed - collected - calm - imperturbable - unflappable - serene - sedate   
 
 业余的    
-amateurish - extracurricular     
+amateurish - extracurricular      
+
+故意的     
+deliberate (深思熟虑的，从容的) - intentional (策划的) - prepense (预谋的) - aforethought (预谋的) - willful (任性的) -     
 
 内敛的  
 recessive adj. 隐性的；逆行的；后退的 - introverted adj. 内向的 - reserved 保留的，预订的；高冷的 -      
 
 突出的   
-obtrusive (强迫人的；冒失的) - salient (显著的；跳跃的) - protruding (伸出的) -     
+obtrusive (强迫人的；冒失的) - salient (显著的；跳跃的) - protruding (伸出的) -      
+
+自满的，满足的    
+complacent - fatuous (愚笨的；发呆的) -     
+
+自信的     
+confident - perky (神气的；得意洋洋的)     
+
+自卑的     
+self-abased - self-contemptuous - inferior -    
 
 有鉴赏力的   
 discriminating        
 
 困难的   
-knotty (棘手的) - man-sized (大型的；宜于成年男人的) - untoward (不幸的；麻烦的；倔强的) - arduous (努力的；费力的) - complicated -   
-
-沮丧的
-disheartening - depressed - spiritless - downcast - dejected - blue (蓝色的；下流的) - gloomy (黑暗的；阴郁的) - despondent (失望的) - frustrated (失意的，挫败的；泄气的) - doleful (寂寞的；悲哀的；阴沉的；忧郁的) -      
+knotty (棘手的) - man-sized (大型的；宜于成年男人的) - untoward (不幸的；麻烦的；倔强的) - arduous (努力的；费力的) - complicated -     
 
 简明的   
 succinct - concise - compendious - laconic     
@@ -74,7 +110,10 @@ fecund (多产的；丰饶的；生殖力旺盛的) - fertile (能生育的) - l
 provocative - irritative - incitant    
 
 启发性的    
-edifying - heuristic -     
+edifying - heuristic -      
+
+易怒的   
+irascible - fractious (倔强的，难以对待的) - irritable (过敏的；急躁的) - choleric (暴躁的；胆汁质的) - touchy (过敏的；难以取悦的) -    
 
 热情的    
 ebullient (沸腾的) - effusive (流出的；感情横溢的) - enthusiastic - zealous -     
@@ -85,8 +124,14 @@ apathetic (无动于衷的) - phlegmatic (迟钝的) - indifferent (中性的) -
 有害的，不利的      
 detrimental - baleful (恶意的) - pernicious (恶性的；致命的；险恶的) - noxious (有毒的；败坏道德的；讨厌的) -     
 
+令人烦恼的    
+vexatious - worrisome - bothersome - vexing -      
+
 不可救药的    
 incorrigible - irredeemable (不能赎回的；[金融] 不能兑现的) -     
+
+危险的    
+precarious (不确定的) - perilous (冒险的) - hazardous (碰运气的) - threatening (胁迫的) -      
 
 贫困的   
 indigent - impoverished - needy       
@@ -98,7 +143,19 @@ sagacious - clear-sighted (视力好的) -
 indolent - slothful - sluttish - idle -       
 
 勤劳的   
-laborious - industrious - diligent - 
+laborious - industrious - diligent -     
+
+努力的，费力的   
+arduous - struggling - studious (热心的；专心的；故意的；适于学习的) -      
+
+没礼貌的，粗野的   
+churlish - flippant (轻率的；嘴碎的) - barbaric - insolent (傲慢的) - graceless - robust (强健的) -         
+
+有礼貌的；谦恭的    
+courteous - civil - polite - meek (温顺的) - courtly (威严的；奉承的) -   
+
+贪婪的   
+voracious (贪吃的；狼吞虎咽的) - avid (热心的) - 
 
 吸引人的   
 spellbinding - intriguing (有趣的) - alluring (诱惑的)      
@@ -107,10 +164,13 @@ spellbinding - intriguing (有趣的) - alluring (诱惑的)
 vapid (无趣味的；无生气的；索然乏味的) - tiresome - humdrum (单调的) - bromidic (陈腐的) -    
 
 客观公正的     
-dispassionate (平心静气的) - unjaundiced -    
+dispassionate (平心静气的) - unjaundiced - equitable - impartial - candid (坦白的；偷拍的) - righteous -   
 
 晦涩难懂的    
-arcane (神秘的；秘传的) - esoteric(秘传的；限于圈内人的)    
+arcane (神秘的；秘传的) - esoteric(秘传的；限于圈内人的)       
+
+秘密的   
+surreptitious (暗中的) - furtive - underhand (阴险的) - clandestine (偷偷摸摸的) - confidential (机密的) -     
 
 反复无常的   
 capricious (任性的) - inconstant - crotchety (有怪想的，想入非非的) - moonish (如月的) - chameleonic (像变色龙的；轻浮的)      
@@ -147,7 +207,7 @@ cantankerous - narky (讽刺的) - grumpy - churlish (没有礼貌的) -
 
 严格的   
 stringent (紧缩的；短缺的) - rigorous (严密的；严酷的) - rigid (僵硬的，死板的；坚硬的；精确的) - exacting (苛求的；吃力的
-v. 逼取；急需) - 
+v. 逼取；急需) -    
 
 仁慈的，慈善的    
 benevolent - charitable (慷慨的) - beneficent - philanthropic (博爱的) -      
@@ -170,8 +230,8 @@ metaphorical - figurative -
 有条件的   
 contingent (adj. 因情况而异的；不一定的；可能的；n. 偶然事件；代表团) -  conditional -    
 
-好战的   
-militant - belligerent - bellicose - combative - trigger-happy (乱开枪的) -    
+好战的，好斗的      
+militant - belligerent - bellicose - combative - trigger-happy (乱开枪的) - pugnacious - truculent (野蛮的；言词刻薄的) -    
 
 腐蚀性的    
 corrosive - caustic (苛性的；刻薄的) - amyctic (刺激性的) -    
@@ -189,6 +249,9 @@ terrestrial - earthly - worldly - mundane (世俗的，平凡的) -
 # Verb
 调查；探究    
 probe - delve - explore - inquire - investigate - scrutinize    
+
+推测    
+conjecture - speculate v. (投机；思考) -        
 
 违背；违反    
 violate - contravene - flout - breach - defy - transgress    
@@ -242,7 +305,10 @@ perish ( 使麻木； vi. 死亡；毁灭；腐烂；枯萎) - sabotage (vt. 妨
 appease (使满足；使和缓；对…让步) - mollify (缓和；使…平静；使…变软) -       
 
 养育    
-foster (v. 抱（希望等）adj. 收养的，养育的) - nourish vt. 滋养；怀有；使健壮 -     
+foster (v. 抱（希望等）adj. 收养的，养育的) - nourish vt. 滋养；怀有；使健壮 -        
+
+繁荣，兴旺    
+thrive - prosperity n. - flourish - prosperous adj. - boom (隆隆声)      
 
 指责   
 impugn (抨击；反驳；对…表示怀疑) - censure (n. v.) - accusation (n.) -      
@@ -251,7 +317,10 @@ impugn (抨击；反驳；对…表示怀疑) - censure (n. v.) - accusation (n.
 
 # Noun
 欺骗    
-chicanery (狡辩；强词夺理) - hoax (v.愚弄) - deceive (v.) - fraud -     
+chicanery (狡辩；强词夺理) - hoax (v.愚弄) - deceive (v.) - fraud -    
+
+讽刺   
+satire - sarcasm - mock (仿制的，模拟的，虚假的，不诚实的) - irony -   
 
 开口   
 vent - outlet - aperture      
@@ -294,12 +363,15 @@ outlook (展望；景色) -
 
 离题   
 digression (脱轨) - stray (vi. 流浪；迷路；偏离 adj. 迷路的；离群的；偶遇的 n. 走失的家畜；流浪者)     
-
+cl
 侦察   
 reconnaissance (勘测（等于reconnoissance）；搜索；事先考查) - scout (n. 侦察员；侦察机 vt. 侦察；跟踪，监视；发现 vi. 侦察；巡视；嘲笑) - reconnoitre (v. 侦察；勘探 n. 侦察；踏勘) -     
 
 性情，脾气    
-disposition (处置；[军] 部署；倾向) - temperament (气质，性格；急躁) -     
+disposition (处置；[军] 部署；倾向) - temperament (气质，性格；急躁) -        
+
+愤恨，怨恨   
+resentment - detest v. - grudge (妒忌) -    
 
 抗议   
 remonstrance - protest (断言) -         
