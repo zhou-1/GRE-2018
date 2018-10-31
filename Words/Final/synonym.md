@@ -29,16 +29,23 @@ depraved (堕落的；腐化的) - vile (邪恶的；低廉的；肮脏的) - ig
 implausible - incredible (惊人的) - fabulous (传说的；极好的) -      
 
 可信的   
-plausible - authentic (真正的) - credible (可靠的) - receivable (可接受的) -       
+plausible 貌似可信的 - authentic (真正的) - credible (可靠的) - receivable (可接受的) -       
 
 善于观察的，敏锐的     
 observant - discerning - acute - astute - aware - perspicacious         
 
 精明的   
-cagey (小心翼翼的) - shrewd - calculative - politic (有策略的；政治的；谨慎的) - astute (狡猾的) - canny (谨慎的；节约的) -     
+cagey (小心翼翼的) - shrewd - calculative - politic (有策略的；政治的；谨慎的) - astute (狡猾的) - canny (谨慎的；节约的) - judicious -      
+
+机智的   
+tactful (圆滑的；老练的) - quick-witted/witty (诙谐的) - resourceful (资源丰富的) -    
+
+愚蠢的   
+doltish - besotted (糊涂的；醉的) -     
 
 谨慎的    
-prudential - cautious - discreetly - discreet - wary (考虑周到的) -     
+prudential - cautious - discreetly - discreet - wary (考虑周到的) -    
+meticulousness n.     
 
 一丝不苟的；细心的     
 punctilious - scrupulous - chary (吝啬的；害羞的) - circumspective/circumspect - leery (机敏的;猜疑的) -     
@@ -70,7 +77,10 @@ composed - unperturbed - collected - calm - imperturbable - unflappable - serene
 轻浮的，轻狂的    
 flighty - flirtatious (爱调戏的) - featherbrained (愚蠢的) - light-headed (头晕的) - giddy (肤浅的) - fickle (反复无常的) - flirty - frivolous ( 无聊的；琐碎的) - coltish (小马似的；不受拘束的) - skittish (人或动物）不安的，易受惊的；难驾驭的) -     
 业余的    
-amateurish - extracurricular      
+amateurish - extracurricular       
+
+繁重的       
+onerous (麻烦的；负有义务的；负有法律责任的) - taxing - burdensome (恼人的) - weighty (严肃的) -       
 
 故意的     
 deliberate (深思熟虑的，从容的) - intentional (策划的) - prepense (预谋的) - aforethought (预谋的) - willful (任性的) -     
@@ -119,6 +129,9 @@ painstaking (勤勉的；小心的) - arduous (费力的；险峻的) - laboriou
 
 贫乏的   
 tenuous(纤细的；稀薄的) -     
+
+稀少的   
+scarce (不足的) - infrequent (珍贵的；不频发的) - seldom - sparse -      
 
 丰富的   
 prolific (多产的) - ample (足够的；宽敞的) - lavish (浪费的；大方的) - affluent (富裕的；流畅的)       
@@ -172,7 +185,7 @@ laborious - industrious - diligent -
 arduous - struggling - studious (热心的；专心的；故意的；适于学习的) -      
 
 没礼貌的，粗野的   
-churlish - flippant (轻率的；嘴碎的) - barbaric - insolent (傲慢的) - graceless - robust (强健的) -         
+churlish - flippant (轻率的；嘴碎的) - barbaric - insolent (傲慢的) - graceless - robust (强健的) - insulting (侮辱的；污蔑的；损害人体的) -             
 
 有礼貌的；谦恭的    
 courteous - civil - polite - meek (温顺的) - courtly (威严的；奉承的) -   
@@ -213,6 +226,9 @@ tenable (（主张等）站得住脚的；可维持的) - impeccable - unimpeach
 虚构的    
 mythical (神话的) - imaginary (假想的；想像的；虚数的) - fabled (寓言中的) - mythological (神话的；神话学的） - fictive (想象上的；虚伪的)    
 
+有益处的   
+edifying - salutary (有用的；有益健康的) - profitable -    
+
 错误的   
 errorneous - inaccurate -    
 
@@ -236,16 +252,28 @@ v. 逼取；急需) - draconian - acrimonious (辛辣的；刻薄的) - stringen
 benevolent - charitable (慷慨的) - beneficent - philanthropic (博爱的) -      
 
 田园的   
-bucolic - idyllic - rural - villatic (别墅的) - pastorale -     
+bucolic - idyllic - rural - villatic (别墅的) - pastorale - lame 无说服力的 -     
 
 陈腐的，老旧的     
 banal - fusty - mouldy (发霉的) - mossy (生苔藓的) - stale - hackneyed (平庸的) - outmoded - obsolete - outmoded - antique -      
 
+恰当的    
+felicitous (善于措辞的；幸福的) - appropriate - pertinent 相关的；中肯的；切题的 - advisable (明智的，可取的) - opportune (合时宜的) -  suitable (相配的) - applicable -       
+
+站不住脚的，没有根据的   
+baseless - unfounded - untenable - indefensible - 
+
+貌似有理的   
+plausible (貌似可信的，花言巧语的；貌似真实的)      
+
 异常的    
 anomalous - aberrant - exceptional - preternatural -     
 
-永久的，持久的      
-perpetuating/perpetual - eternal - abiding - enduring (能忍受的) -        
+永久的        
+perpetuating/perpetual - eternal - 
+
+持久的   
+abiding - enduring (能忍受的) - durable (耐用的) -         
 
 短暂的   
 momentary - evanescent 容易消散的，逐渐消失的 - transitory - unabiding - ephemeral -       
@@ -266,7 +294,10 @@ militant - belligerent - bellicose - combative - trigger-happy (乱开枪的) - 
 prescient - foregone -     
 
 古代的，陈旧的    
-archaic - antediluvian (大洪水前的) - obsolete (废弃的；老式的) - timeworn - stale (陈腐的；不新鲜的) - dated (有日期的) - prehistoric (史前的) -  antique - hoary (灰白的) -       
+archaic - antediluvian (大洪水前的) - obsolete (废弃的；老式的) - timeworn - stale (陈腐的；不新鲜的) - dated (有日期的) - prehistoric (史前的) -  antique - hoary (灰白的) -          
+
+传统的      
+conventional (惯例的) - trad/traditional - orthodox (正统的) -     
 
 透明的    
 transparent (显然的；坦率的；易懂的) - lucid (明晰的；易懂的；头脑清楚的) - pellucid (清晰的；明了的) - hyaline (n. 镜似的海；蓝天 adj. 玻璃似的) - diaphanous (精致的；模糊的) - sheer (绝对的；峻峭的；纯粹的) -     
@@ -304,16 +335,19 @@ violate - contravene - flout - breach - defy - transgress
 facilitate (帮助；使容易) -   
 
 抑制；控制    
-contain - repress - stifle - restrain - curb - rein in     
+contain - repress - stifle - restrain - curb - rein in - forbear - dampen (使…沮丧；使…潮湿) -        
 
 轻视；鄙视；蔑视   
-belittle - despise - disparage (诽谤) -     
+belittle - despise - disparage (诽谤) -       
 
 使...困惑   
 baffle (使…受挫折；用挡板控制) - bewilderment n. - perplex - bewildered (眩晕) - 
 
 聚集   
 aggregation      
+
+弥漫，扩散   
+diffuse - spread - pervade - suffuse - permeate (渗透) -     
 
 蔓延   
 sprawl (伸开手足躺；无计划地扩展) -    
