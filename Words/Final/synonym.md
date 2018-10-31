@@ -2,7 +2,10 @@
 
 # Adj
 杰出的，著名的      
-prominent - eminent       
+prominent - eminent         
+
+有权威的   
+magisterial (专横的；官吏的) - authoritative (当局的) - canonical (依教规的；牧师的) -      
 
 单调乏味的    
 prosaic (平凡的) - stuffy (闷热的；古板的) - bland (温和的，冷漠的) - dull (笨的;阴沉的) - tedious - watery (湿的) -     
@@ -17,7 +20,10 @@ unequivocal - unambiguous - explicit (直率的；详述的)
 tendentious - jaundiced - prejudiced - prejudicial -    
 
 真诚的   
-ingenuous (天真的；坦白的) - genuine (真实的，真正的) -        
+ingenuous (天真的；坦白的) - genuine (真实的，真正的) -          
+
+卑鄙的     
+depraved (堕落的；腐化的) - vile (邪恶的；低廉的；肮脏的) - ignoble (不光彩的；卑鄙的) - contemptible (可轻视的) - despicable - abject (可怜的；不幸的；（境况）凄惨的，绝望的) - shabby (破旧的) - wretched (可怜的；令人苦恼或难受的) -       
 
 难以置信的   
 implausible - incredible (惊人的) - fabulous (传说的；极好的) -      
@@ -35,7 +41,10 @@ cagey (小心翼翼的) - shrewd - calculative - politic (有策略的；政治�
 prudential - cautious - discreetly - discreet - wary (考虑周到的) -     
 
 一丝不苟的；细心的     
-punctilious - scrupulous - chary (吝啬的；害羞的) - circumspective - leery (机敏的;猜疑的) -     
+punctilious - scrupulous - chary (吝啬的；害羞的) - circumspective/circumspect - leery (机敏的;猜疑的) -     
+
+马虎的，粗心的，草率的     
+cursory - slack (松弛的) - slipshod (潦草的) - slovenly (邋遢的；懒散的) - sloppy (泥泞的；肥大的；稀薄的) -      
 
 滑稽的，可笑的   
 burlesque (滑稽戏) - clownish (似小丑的) - comical - humoristic - waggish - buffo -    
@@ -77,7 +86,13 @@ complacent - fatuous (愚笨的；发呆的) -
 confident - perky (神气的；得意洋洋的)     
 
 自卑的     
-self-abased - self-contemptuous - inferior -    
+self-abased - self-contemptuous - inferior -      
+
+自私的，吝啬的       
+self-serving - selfish - hardfisted - asocial (不合群的；缺乏社交性的) - chary (谨慎的；仔细的) - closefisted - chinchy (便宜的) - tightfisted -      
+
+大方的      
+generous - lavish (浪费的；丰富的 vt. 浪费；慷慨给予；滥用) - bountiful (丰富的；宽大的) - munificent (丰厚的；宽宏的) - ungrudging (情愿的) - bighearted (宽大的) -  cedric - liberal (自由主义的；不拘泥的；宽大的) -    
 
 有鉴赏力的   
 discriminating        
@@ -158,7 +173,7 @@ churlish - flippant (轻率的；嘴碎的) - barbaric - insolent (傲慢的) - 
 courteous - civil - polite - meek (温顺的) - courtly (威严的；奉承的) -   
 
 贪婪的   
-voracious (贪吃的；狼吞虎咽的) - avid (热心的) - 
+voracious (贪吃的；狼吞虎咽的) - avid (热心的) - rapacious - 
 
 吸引人的   
 spellbinding - intriguing (有趣的) - alluring (诱惑的)      
@@ -208,9 +223,9 @@ drifting (n. 漂流；漂流物) - seaborne (海上运输的) -
 脾气坏的   
 cantankerous - narky (讽刺的) - grumpy - churlish (没有礼貌的) -      
 
-严格的   
+严格的，严厉的      
 stringent (紧缩的；短缺的) - rigorous (严密的；严酷的) - rigid (僵硬的，死板的；坚硬的；精确的) - exacting (苛求的；吃力的
-v. 逼取；急需) -    
+v. 逼取；急需) - draconian - acrimonious (辛辣的；刻薄的) - stringent (紧缩的；短缺的) - harsh (刺耳的；粗糙的；刺目的) -    
 
 仁慈的，慈善的    
 benevolent - charitable (慷慨的) - beneficent - philanthropic (博爱的) -      
@@ -228,7 +243,10 @@ anomalous - aberrant - exceptional - preternatural -
 perpetuating/perpetual - eternal - abiding - enduring (能忍受的) -        
 
 短暂的   
-momentary - evanescent 容易消散的，逐渐消失的 - transitory - unabiding - ephemeral -      
+momentary - evanescent 容易消散的，逐渐消失的 - transitory - unabiding - ephemeral -       
+
+临时的    
+provisional - occasional - extemporaneous - interim (中间的) - casual -     
 
 比喻性的   
 metaphorical - figurative -     
@@ -238,6 +256,12 @@ contingent (adj. 因情况而异的；不一定的；可能的；n. 偶然事件
 
 好战的，好斗的      
 militant - belligerent - bellicose - combative - trigger-happy (乱开枪的) - pugnacious - truculent (野蛮的；言词刻薄的) -    
+
+预知的     
+prescient - foregone -     
+
+古代的，陈旧的    
+archaic - antediluvian (大洪水前的) - obsolete (废弃的；老式的) - timeworn - stale (陈腐的；不新鲜的) - dated (有日期的) - prehistoric (史前的) -  antique - hoary (灰白的) -     
 
 腐蚀性的    
 corrosive - caustic (苛性的；刻薄的) - amyctic (刺激性的) -    
