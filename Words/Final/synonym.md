@@ -65,8 +65,10 @@ disheartening - depressed - spiritless - downcast - dejected - blue (蓝色的�
 redundant - unnecessary - superfluous - surplus - extra - excessive     
 
 镇定的，沉着的    
-composed - unperturbed - collected - calm - imperturbable - unflappable - serene - sedate   
+composed - unperturbed - collected - calm - imperturbable - unflappable - serene - sedate      
 
+轻浮的，轻狂的    
+flighty - flirtatious (爱调戏的) - featherbrained (愚蠢的) - light-headed (头晕的) - giddy (肤浅的) - fickle (反复无常的) - flirty - frivolous ( 无聊的；琐碎的) - coltish (小马似的；不受拘束的) - skittish (人或动物）不安的，易受惊的；难驾驭的) -     
 业余的    
 amateurish - extracurricular      
 
@@ -77,7 +79,10 @@ deliberate (深思熟虑的，从容的) - intentional (策划的) - prepense (�
 recessive adj. 隐性的；逆行的；后退的 - introverted adj. 内向的 - reserved 保留的，预订的；高冷的 -      
 
 突出的   
-obtrusive (强迫人的；冒失的) - salient (显著的；跳跃的) - protruding (伸出的) -      
+obtrusive (强迫人的；冒失的) - salient (显著的；跳跃的) - protruding (伸出的) -     
+
+迷人的，吸引人的    
+coquettish (妖艳的；卖弄风情的) - fascinating - captivating - alluring (诱惑的，诱人的) - absorbing (极有趣的 v. 吸收) - intriguing (有趣的) - tempting - appealing -       
 
 自满的，满足的    
 complacent - fatuous (愚笨的；发呆的) -     
@@ -261,13 +266,19 @@ militant - belligerent - bellicose - combative - trigger-happy (乱开枪的) - 
 prescient - foregone -     
 
 古代的，陈旧的    
-archaic - antediluvian (大洪水前的) - obsolete (废弃的；老式的) - timeworn - stale (陈腐的；不新鲜的) - dated (有日期的) - prehistoric (史前的) -  antique - hoary (灰白的) -     
+archaic - antediluvian (大洪水前的) - obsolete (废弃的；老式的) - timeworn - stale (陈腐的；不新鲜的) - dated (有日期的) - prehistoric (史前的) -  antique - hoary (灰白的) -       
+
+透明的    
+transparent (显然的；坦率的；易懂的) - lucid (明晰的；易懂的；头脑清楚的) - pellucid (清晰的；明了的) - hyaline (n. 镜似的海；蓝天 adj. 玻璃似的) - diaphanous (精致的；模糊的) - sheer (绝对的；峻峭的；纯粹的) -     
+
+不透明的   
+opaque (不传热的；迟钝的 n. 不透明物) - non-transparent -      
 
 腐蚀性的    
 corrosive - caustic (苛性的；刻薄的) - amyctic (刺激性的) -    
 
 没有关联的   
-irrelevant - extraneous (外来的) -     
+irrelevant - extraneous (外来的) -  
 
 杂交的    
 hybrid (n. 杂种，混血儿；混合物 adj. 混合的) - mongrel (n. 杂种；混血儿；杂种动物 adj. 混血儿的) - 
@@ -281,7 +292,10 @@ terrestrial - earthly - worldly - mundane (世俗的，平凡的) -
 probe - delve - explore - inquire - investigate - scrutinize    
 
 推测    
-conjecture - speculate v. (投机；思考) -        
+conjecture - speculate v. (投机；思考) -          
+
+识别；认识   
+discern (领悟，看清楚) - recognize - spot (n. 地点；斑点 vt. 弄脏；用灯光照射;满是斑点) - identify (鉴定；辨认出；使参与；把…看成一样) -    
 
 违背；违反    
 violate - contravene - flout - breach - defy - transgress    
