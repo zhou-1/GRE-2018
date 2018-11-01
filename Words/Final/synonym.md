@@ -77,7 +77,19 @@ composed - unperturbed - collected - calm - imperturbable - unflappable - serene
 轻浮的，轻狂的    
 flighty - flirtatious (爱调戏的) - featherbrained (愚蠢的) - light-headed (头晕的) - giddy (肤浅的) - fickle (反复无常的) - flirty - frivolous ( 无聊的；琐碎的) - coltish (小马似的；不受拘束的) - skittish (人或动物）不安的，易受惊的；难驾驭的) -     
 业余的    
-amateurish - extracurricular       
+amateurish - extracurricular         
+
+高傲的，傲慢的    
+haughty - lofty (高的；崇高的；高级的) - arrogant - overbearing (压倒一切的 v. 压住；否定；专横地对待) - proudhearted (骄傲的) - supercilious - lordly (贵族气派的) - cocky - bouncy (有弹性的；快活的；精神饱满的) - swellheaded - pompous (浮夸的；华而不实的) -    
+
+自满的，满足的    
+complacent - fatuous (愚笨的；发呆的) -     
+
+自信的     
+confident - perky (神气的；得意洋洋的)     
+
+自卑的     
+self-abased - self-contemptuous - inferior -        
 
 繁重的       
 onerous (麻烦的；负有义务的；负有法律责任的) - taxing - burdensome (恼人的) - weighty (严肃的) -       
@@ -93,15 +105,6 @@ obtrusive (强迫人的；冒失的) - salient (显著的；跳跃的) - protrud
 
 迷人的，吸引人的    
 coquettish (妖艳的；卖弄风情的) - fascinating - captivating - alluring (诱惑的，诱人的) - absorbing (极有趣的 v. 吸收) - intriguing (有趣的) - tempting - appealing -       
-
-自满的，满足的    
-complacent - fatuous (愚笨的；发呆的) -     
-
-自信的     
-confident - perky (神气的；得意洋洋的)     
-
-自卑的     
-self-abased - self-contemptuous - inferior -      
 
 自私的，吝啬的       
 self-serving - selfish - hardfisted - asocial (不合群的；缺乏社交性的) - chary (谨慎的；仔细的) - closefisted - chinchy (便宜的) - tightfisted -      
@@ -185,7 +188,7 @@ laborious - industrious - diligent -
 arduous - struggling - studious (热心的；专心的；故意的；适于学习的) -      
 
 没礼貌的，粗野的   
-churlish - flippant (轻率的；嘴碎的) - barbaric - insolent (傲慢的) - graceless - robust (强健的) - insulting (侮辱的；污蔑的；损害人体的) -             
+churlish - flippant (轻率的；嘴碎的) - barbaric - insolent (傲慢的) - graceless - robust (强健的) - insulting (侮辱的；污蔑的；损害人体的) - impudent (无耻的，鲁莽的) -                
 
 有礼貌的；谦恭的    
 courteous - civil - polite - meek (温顺的) - courtly (威严的；奉承的) -   
@@ -440,8 +443,11 @@ intention(意向；愈合) -
 outlook (展望；景色) - 
 
 离题   
-digression (脱轨) - stray (vi. 流浪；迷路；偏离 adj. 迷路的；离群的；偶遇的 n. 走失的家畜；流浪者)     
-cl
+digression (脱轨) - stray (vi. 流浪；迷路；偏离 adj. 迷路的；离群的；偶遇的 n. 走失的家畜；流浪者) -    
+
+分叉，二分  
+bifurcation 分叉 - dichotomy 二分法 - furcation 分叉，分歧 - divarication - ramify (成网状) -    
+
 侦察   
 reconnaissance (勘测（等于reconnoissance）；搜索；事先考查) - scout (n. 侦察员；侦察机 vt. 侦察；跟踪，监视；发现 vi. 侦察；巡视；嘲笑) - reconnoitre (v. 侦察；勘探 n. 侦察；踏勘) -     
 
