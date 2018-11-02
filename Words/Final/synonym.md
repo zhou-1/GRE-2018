@@ -2,10 +2,19 @@
 
 # Adj
 杰出的，著名的      
-prominent - eminent         
+prominent - eminent          
+
+日常的   
+routine ([计] 程序；日常工作；例行公事) - wonted adj. 习惯的；惯例的；通常的       
 
 有权威的   
-magisterial (专横的；官吏的) - authoritative (当局的) - canonical (依教规的；牧师的) -      
+magisterial (专横的；官吏的) - authoritative (当局的) - canonical (依教规的；牧师的) -    
+
+刺耳的   
+cacophonous (粗腔横调的) - discordant (不一致的) - harsh (严厉的；严酷的；粗糙的；刺目的) - hoarse (嘶哑的) - strident (尖锐的；吱吱尖叫的；轧轧作响的) - raspy (易怒的；粗糙的) - grating (磨擦的 n. [光] 光栅；摩擦) - jarring (不和谐的；辗轧的) - 
+
+悦耳的   
+melodious (旋律优美的) - euphonic/euphonious - dulcet (美妙的；怡人的) - mellifluous (流畅的；如蜜般的) - harmonic - orphean 迷人的，好听的 -  
 
 单调乏味的    
 prosaic (平凡的) - stuffy (闷热的；古板的) - bland (温和的，冷漠的) - dull (笨的;阴沉的) - tedious - watery (湿的) -     
@@ -24,6 +33,9 @@ ingenuous (天真的；坦白的) - genuine (真实的，真正的) -
 
 卑鄙的     
 depraved (堕落的；腐化的) - vile (邪恶的；低廉的；肮脏的) - ignoble (不光彩的；卑鄙的) - contemptible (可轻视的) - despicable - abject (可怜的；不幸的；（境况）凄惨的，绝望的) - shabby (破旧的) - wretched (可怜的；令人苦恼或难受的) -       
+
+孝顺的   
+filial (子女的) - obedient (顺从的，服从的) - dutiful (尽职的)   
 
 难以置信的   
 implausible - incredible (惊人的) - fabulous (传说的；极好的) -      
@@ -60,7 +72,7 @@ burlesque (滑稽戏) - clownish (似小丑的) - comical - humoristic - waggish
 sanguine (面色红润的) - optimistic - upbeat (上升的) - affirmative (肯定的) - 
 
 高兴的；愉快的    
-exhilarating - jolly - merry (微醺的) - amused (顽皮的) - cheerful - piacevole - 
+exhilarating - jolly - merry (微醺的) - amused (顽皮的) - cheerful - piacevole - convivial (欢宴的) - euphoric -         
 
 悲哀的，不高兴的，痛苦的         
 lugubrious - mournful - woeful - downcast - sullen - grouchy - verjuiced (酸的) - distressing - miserable - anguished - grievous (剧烈的) - torturous (折磨人的) -       
@@ -159,6 +171,7 @@ ebullient (沸腾的) - effusive (流出的；感情横溢的) - enthusiastic - 
 
 冷漠的   
 apathetic (无动于衷的) - phlegmatic (迟钝的) - indifferent (中性的) - offish (疏远的) - unbending (坚定的；不易弯曲的) - bland (乏味的；温和的) -    
+apathy n. 冷漠，无兴趣，漠不关心；无感情     
 
 有害的，不利的      
 detrimental - baleful (恶意的) - pernicious (恶性的；致命的；险恶的) - noxious (有毒的；败坏道德的；讨厌的) -     
@@ -300,7 +313,7 @@ prescient - foregone -
 archaic - antediluvian (大洪水前的) - obsolete (废弃的；老式的) - timeworn - stale (陈腐的；不新鲜的) - dated (有日期的) - prehistoric (史前的) -  antique - hoary (灰白的) -          
 
 传统的      
-conventional (惯例的) - trad/traditional - orthodox (正统的) -     
+conventional (惯例的) - trad/traditional - orthodox (正统的) -        
 
 透明的    
 transparent (显然的；坦率的；易懂的) - lucid (明晰的；易懂的；头脑清楚的) - pellucid (清晰的；明了的) - hyaline (n. 镜似的海；蓝天 adj. 玻璃似的) - diaphanous (精致的；模糊的) - sheer (绝对的；峻峭的；纯粹的) -     
