@@ -25,14 +25,24 @@ melodious (旋律优美的) - euphonic/euphonious - dulcet (美妙的；怡人�
 单调乏味的    
 prosaic (平凡的) - stuffy (闷热的；古板的) - bland (温和的，冷漠的) - dull (笨的;阴沉的) - tedious - watery (湿的) -     
 
+透明的    
+transparent (显然的；坦率的；易懂的) - lucid (明晰的；易懂的；头脑清楚的) - pellucid (清晰的；明了的) - hyaline (n. 镜似的海；蓝天 adj. 玻璃似的) - diaphanous (精致的；模糊的) - sheer (绝对的；峻峭的；纯粹的) -     
+
+不透明的   
+opaque (不传热的；迟钝的 n. 不透明物) - non-transparent -      
+
 含糊的，不明确的   
-vague - nebulous - imprecise - ambiguous - obscure - equivocal       
+vague - nebulous - imprecise - ambiguous - obscure - equivocal      
+obfuscate vt. 使模糊；使迷乱；弄暗      
 
 明确的   
 unequivocal - unambiguous - explicit (直率的；详述的)         
 
 有偏见的   
 tendentious - jaundiced - prejudiced - prejudicial -    
+
+坦白的，直率的    
+frank - straightforward (明确的；径直的) - candid - forthright (直截了当的) - unreserved (不隐瞒的；无限制的；未被预订的) -    
 
 真诚的   
 ingenuous (天真的；坦白的) - genuine (真实的，真正的) -          
@@ -123,6 +133,9 @@ recessive adj. 隐性的；逆行的；后退的 - introverted adj. 内向的 - 
 
 突出的   
 obtrusive (强迫人的；冒失的) - salient (显著的；跳跃的) - protruding (伸出的) -     
+
+隐秘的，秘密的       
+surreptitious (暗中的) - furtive - underhand (阴险的) - clandestine (偷偷摸摸的) - confidential (机密的) -      
 
 迷人的，吸引人的    
 coquettish (妖艳的；卖弄风情的) - fascinating - captivating - alluring (诱惑的，诱人的) - absorbing (极有趣的 v. 吸收) - intriguing (有趣的) - tempting - appealing -       
@@ -234,10 +247,7 @@ vapid (无趣味的；无生气的；索然乏味的) - tiresome - humdrum (单�
 dispassionate (平心静气的) - unjaundiced - equitable - impartial - candid (坦白的；偷拍的) - righteous -   
 
 晦涩难懂的    
-arcane (神秘的；秘传的) - esoteric(秘传的；限于圈内人的)       
-
-秘密的   
-surreptitious (暗中的) - furtive - underhand (阴险的) - clandestine (偷偷摸摸的) - confidential (机密的) -     
+arcane (神秘的；秘传的) - esoteric(秘传的；限于圈内人的)         
 
 反复无常的   
 capricious (任性的) - inconstant - crotchety (有怪想的，想入非非的) - moonish (如月的) - chameleonic (像变色龙的；轻浮的)      
@@ -333,12 +343,6 @@ archaic - antediluvian (大洪水前的) - obsolete (废弃的；老式的) - ti
 传统的      
 conventional (惯例的) - trad/traditional - orthodox (正统的) -        
 
-透明的    
-transparent (显然的；坦率的；易懂的) - lucid (明晰的；易懂的；头脑清楚的) - pellucid (清晰的；明了的) - hyaline (n. 镜似的海；蓝天 adj. 玻璃似的) - diaphanous (精致的；模糊的) - sheer (绝对的；峻峭的；纯粹的) -     
-
-不透明的   
-opaque (不传热的；迟钝的 n. 不透明物) - non-transparent -      
-
 腐蚀性的    
 corrosive - caustic (苛性的；刻薄的) - amyctic (刺激性的) -    
 
@@ -363,13 +367,22 @@ conjecture - speculate v. (投机；思考) -
 discern (领悟，看清楚) - recognize - spot (n. 地点；斑点 vt. 弄脏；用灯光照射;满是斑点) - identify (鉴定；辨认出；使参与；把…看成一样) -    
 
 违背；违反    
-violate - contravene - flout - breach - defy - transgress    
+violate - contravene - flout - breach - defy - transgress      
+
+避开，回避    
+shun - avoid - debarb - evade 逃避，逃脱 - shirk 逃避；推卸 -     
 
 促进   
 facilitate (帮助；使容易) -   
 
 抑制；控制    
-contain - repress - stifle - restrain - curb - rein in - forbear - dampen (使…沮丧；使…潮湿) -        
+contain - repress - stifle - restrain - curb - rein in - forbear - dampen (使…沮丧；使…潮湿) -         
+
+妥协，让步      
+compromise - concession (n. 让步；特许（权）；承认；退位) -          
+
+认输，屈服   
+capitulate - surrender - yield (出产，产生；放弃) - knuckle under -    
 
 轻视；鄙视；蔑视   
 belittle - despise - disparage (诽谤) -       
@@ -422,8 +435,8 @@ foster (v. 抱（希望等）adj. 收养的，养育的) - nourish vt. 滋养；
 繁荣，兴旺    
 thrive - prosperity n. - flourish - prosperous adj. - boom (隆隆声)      
 
-指责   
-impugn (抨击；反驳；对…表示怀疑) - censure (n. v.) - accusation (n.) -      
+谴责,指责      
+denounce (告发；通告废除) - remonstrate (告诫；抗议) - condemn (判刑，定罪) - impugn (抨击；反驳；对…表示怀疑) - censure (n. v.) - accusation (n.) -        
 
 
 
