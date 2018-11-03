@@ -2,10 +2,16 @@
 
 # Adj
 杰出的，著名的      
-prominent - eminent          
+prominent - eminent - renowned - celebrated - famed - distinguished (高贵的) - noted -               
 
 日常的   
-routine ([计] 程序；日常工作；例行公事) - wonted adj. 习惯的；惯例的；通常的       
+routine ([计] 程序；日常工作；例行公事) - wonted adj. 习惯的；惯例的；通常的        
+
+平凡的   
+mediocre/mediocrity n. - characterless - commonplace - featureless -     
+
+次要的    
+peripheral (外围的) - secondary (中等的) - minor - subordinate -        
 
 有权威的   
 magisterial (专横的；官吏的) - authoritative (当局的) - canonical (依教规的；牧师的) -    
@@ -53,7 +59,7 @@ cagey (小心翼翼的) - shrewd - calculative - politic (有策略的；政治�
 tactful (圆滑的；老练的) - quick-witted/witty (诙谐的) - resourceful (资源丰富的) -    
 
 愚蠢的   
-doltish - besotted (糊涂的；醉的) -     
+doltish - besotted (糊涂的；醉的) - moronic - scatty (疯狂的) -           
 
 谨慎的    
 prudential - cautious - discreetly - discreet - wary (考虑周到的) -    
@@ -89,7 +95,10 @@ composed - unperturbed - collected - calm - imperturbable - unflappable - serene
 轻浮的，轻狂的    
 flighty - flirtatious (爱调戏的) - featherbrained (愚蠢的) - light-headed (头晕的) - giddy (肤浅的) - fickle (反复无常的) - flirty - frivolous ( 无聊的；琐碎的) - coltish (小马似的；不受拘束的) - skittish (人或动物）不安的，易受惊的；难驾驭的) -     
 业余的    
-amateurish - extracurricular         
+amateurish - extracurricular           
+
+浮夸的   
+flatulent (自负的；肠胃气胀的；空虚的) - grandiloquent 夸张的；夸大的；大言不惭的 - turgescent (肿胀的) - 
 
 高傲的，傲慢的    
 haughty - lofty (高的；崇高的；高级的) - arrogant - overbearing (压倒一切的 v. 压住；否定；专横地对待) - proudhearted (骄傲的) - supercilious - lordly (贵族气派的) - cocky - bouncy (有弹性的；快活的；精神饱满的) - swellheaded - pompous (浮夸的；华而不实的) -    
@@ -142,6 +151,9 @@ lush (丰富的；苍翠繁茂的) - grand (宏伟的；极重要的) - plush (�
 艰苦的   
 painstaking (勤勉的；小心的) - arduous (费力的；险峻的) - laborious (勤劳的；费劲的) -        
 
+纤细的    
+slender (苗条的；微薄的) - finespun (细纺的；过分精密的) - slight (轻微的，少量的；脆弱的) - delicate (微妙的；精美的，雅致的；柔和的；易碎的；纤弱的；清淡可口的) -     
+
 贫乏的   
 tenuous(纤细的；稀薄的) -     
 
@@ -171,7 +183,10 @@ ebullient (沸腾的) - effusive (流出的；感情横溢的) - enthusiastic - 
 
 冷漠的   
 apathetic (无动于衷的) - phlegmatic (迟钝的) - indifferent (中性的) - offish (疏远的) - unbending (坚定的；不易弯曲的) - bland (乏味的；温和的) -    
-apathy n. 冷漠，无兴趣，漠不关心；无感情     
+apathy n. 冷漠，无兴趣，漠不关心；无感情      
+
+有益处的   
+edifying - salutary (有用的；有益健康的) - profitable -    
 
 有害的，不利的      
 detrimental - baleful (恶意的) - pernicious (恶性的；致命的；险恶的) - noxious (有毒的；败坏道德的；讨厌的) -     
@@ -228,7 +243,13 @@ surreptitious (暗中的) - furtive - underhand (阴险的) - clandestine (偷�
 capricious (任性的) - inconstant - crotchety (有怪想的，想入非非的) - moonish (如月的) - chameleonic (像变色龙的；轻浮的)      
 
 善变的   
-mercurial (水银的；水星的；墨丘利神的；雄辩机智的) - fickle (浮躁的) -     
+mercurial (水银的；水星的；墨丘利神的；雄辩机智的) - fickle (浮躁的) -       
+
+连续不断的    
+incessant - unintermittent - continuous - successive (继承的；依次的) - consecutive - sequential - serial (连载的；分期偿还的) -      
+
+坚定的   
+staunch (忠诚的) - steadfast - sturdy (坚强的) - unswerving (始终不渝的；不歪的) - impregnable (无法攻取的；不受影响的;可以受孕的) - decisive (决定性的) -     
 
 固执的   
 wrongheaded (坚持错误的) - stubborn - tenacious - ramstam (任性的) - froward (刚愎的；难驾驭的) - bigoted (心地狭窄的；盲从的) - obstinate (倔强的；难以控制的) - adamant (坚强的；坚定不移的；坚硬无比的) - persistent      
@@ -240,10 +261,7 @@ insubstantial(无实体的；幻想的，非真实的) - tender(温柔的；柔�
 tenable (（主张等）站得住脚的；可维持的) - impeccable - unimpeachable (无可指责的；无可怀疑的；无过失的，无罪的) - invulnerable (不会受伤害的) - unassailable (不容置疑的)       
 
 虚构的    
-mythical (神话的) - imaginary (假想的；想像的；虚数的) - fabled (寓言中的) - mythological (神话的；神话学的） - fictive (想象上的；虚伪的)    
-
-有益处的   
-edifying - salutary (有用的；有益健康的) - profitable -    
+mythical (神话的) - imaginary (假想的；想像的；虚数的) - fabled (寓言中的) - mythological (神话的；神话学的） - fictive (想象上的；虚伪的)     
 
 错误的   
 errorneous - inaccurate -    
@@ -413,6 +431,12 @@ impugn (抨击；反驳；对…表示怀疑) - censure (n. v.) - accusation (n.
 欺骗    
 chicanery (狡辩；强词夺理) - hoax (v.愚弄) - deceive (v.) - fraud -    
 
+背叛者    
+betrayer - defector - turncoat - cheater - deserter -     
+
+愚笨的人    
+imbecile - retardate - jackass - 
+
 讽刺   
 satire - sarcasm - mock (仿制的，模拟的，虚假的，不诚实的) - irony -   
 
@@ -438,7 +462,10 @@ canon - doctrine - criterion - tenet - yardstick - dogma
 orbit - path - course - circuit - track - trajectory    
 
 先驱   
-precursor - harbinger (n. 前兆；预告者 vt. 预告) - herald (n. 预兆，征兆；传令官；报信者 vt. 通报；预示…的来临) - forerunner (n. 预兆) - avant-courier -      
+precursor - harbinger (n. 前兆；预告者 vt. 预告) - herald (n. 预兆，征兆；传令官；报信者 vt. 通报；预示…的来临) - forerunner (n. 预兆) - avant-courier -       
+
+预言家  
+prophet - seer - 
 
 外行；业余爱好者   
 amateur - dilettante     
@@ -450,7 +477,11 @@ insouciance - blithe (愉快的) -
 alacrity - agility (灵活) -    
 
 意图，目的   
-intention(意向；愈合) -    
+intention(意向；愈合) -       
+
+干涉他人事物的人   
+interloper -    
+intervene v. interference n.      
 
 观点   
 outlook (展望；景色) - 
