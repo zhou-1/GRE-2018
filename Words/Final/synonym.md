@@ -109,7 +109,7 @@ flighty - flirtatious (爱调戏的) - featherbrained (愚蠢的) - light-headed
 flatulent (自负的；肠胃气胀的；空虚的) - grandiloquent 夸张的；夸大的；大言不惭的 - turgescent (肿胀的) - 
 
 高傲的，傲慢的    
-haughty - lofty (高的；崇高的；高级的) - arrogant - overbearing (压倒一切的 v. 压住；否定；专横地对待) - proudhearted (骄傲的) - supercilious - lordly (贵族气派的) - cocky - bouncy (有弹性的；快活的；精神饱满的) - swellheaded - pompous (浮夸的；华而不实的) -    
+haughty - lofty (高的；崇高的；高级的) - arrogant - overbearing (压倒一切的 v. 压住；否定；专横地对待) - proudhearted (骄傲的) - supercilious - lordly (贵族气派的) - cocky - bouncy (有弹性的；快活的；精神饱满的) - swellheaded - pompous (浮夸的；华而不实的) - brash (无礼的；仓促的，性急的) -   
 
 自满的，满足的    
 complacent - fatuous (愚笨的；发呆的) -     
@@ -230,7 +230,7 @@ laborious - industrious - diligent -
 arduous - struggling - studious (热心的；专心的；故意的；适于学习的) -      
 
 没礼貌的，粗野的   
-churlish - flippant (轻率的；嘴碎的) - barbaric - insolent (傲慢的) - graceless - robust (强健的) - insulting (侮辱的；污蔑的；损害人体的) - impudent (无耻的，鲁莽的) -                
+churlish - flippant (轻率的；嘴碎的) - barbaric - insolent (傲慢的) - graceless - robust (强健的) - insulting (侮辱的；污蔑的；损害人体的) - impudent (无耻的，鲁莽的) - brash (傲慢的；仓促的，性急的) -                
 
 有礼貌的；谦恭的    
 courteous - civil - polite - meek (温顺的) - courtly (威严的；奉承的) -   
@@ -261,6 +261,9 @@ incessant - unintermittent - continuous - successive (继承的；依次的) - c
 
 必然的，不可避免的        
 inevitable - unescapable - unavoidable - ineluctable -        
+
+逃避的，托辞的；推托的      
+evasive - elusive (难懂的；易忘的；难捉摸的) - truant adj. 旷课的；偷懒的 - dodgy 狡猾的，逃避的；善于骗人的；躲闪的 -      
 
 坚定的   
 staunch (忠诚的) - steadfast - sturdy (坚强的) - unswerving (始终不渝的；不歪的) - impregnable (无法攻取的；不受影响的;可以受孕的) - decisive (决定性的) -     
@@ -458,7 +461,7 @@ denounce (告发；通告废除) - remonstrate (告诫；抗议) - condemn (判�
 
 # Noun
 欺骗    
-chicanery (狡辩；强词夺理) - hoax (v.愚弄) - deceive (v.) - fraud -    
+chicanery (狡辩；强词夺理) - hoax (v.愚弄) - deceive (v.) - fraud - duplicity 不诚实 -   
 
 背叛者    
 betrayer - defector - turncoat - cheater - deserter -     
@@ -467,7 +470,13 @@ betrayer - defector - turncoat - cheater - deserter -
 imbecile - retardate - jackass - 
 
 讽刺   
-satire - sarcasm - mock (仿制的，模拟的，虚假的，不诚实的) - irony -   
+satire - sarcasm - mock (仿制的，模拟的，虚假的，不诚实的) - irony -    
+
+浪费  
+extravagance (奢侈；过度；放肆的言行) - squander (v.) -        
+
+腐败，腐烂      
+corruption - decay (衰退，[核] 衰减) - rot - putrefaction - decomposition (分解) - spoilage (损坏，糟蹋) -      
 
 开口   
 vent - outlet - aperture      
@@ -476,10 +485,16 @@ vent - outlet - aperture
 erudition / erudite (adj.) / eruditely (adv.)        
 
 卓越；杰出    
-preeminence - dominance (优势；统治；支配) -      
+preeminence - dominance (优势；统治；支配) -        
+
+炫耀   
+panache 羽饰；灿烂；耍派头 - flaunt - strut (支柱；高视阔步) - parade (游行；阅兵；行进；阅兵场) -      
 
 定式思维，陈规的想法   
-stereotype - formula - cliche - pattern     
+stereotype - formula - cliche - pattern      
+
+天赋，资质   
+flair - dower (嫁妆；亡夫遗产) - genius -     
 
 边缘，外围；界限      
 periphery - boundary - circumference - edge - margin - fringe - confine (v.) -     
