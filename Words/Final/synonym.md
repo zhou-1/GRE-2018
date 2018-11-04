@@ -32,11 +32,11 @@ transparent (显然的；坦率的；易懂的) - lucid (明晰的；易懂的�
 opaque (不传热的；迟钝的 n. 不透明物) - non-transparent -      
 
 含糊的，不明确的   
-vague - nebulous - imprecise - ambiguous - obscure - equivocal      
+vague - nebulous - imprecise - ambiguous - obscure - equivocal - precarious (危险的) - indeterminate - dicey (冒险性的；认命的；危险的) - inconclusive (非决定性的；无结果的) - indefinite (无限的；模糊的) -           
 obfuscate vt. 使模糊；使迷乱；弄暗      
 
 明确的   
-unequivocal - unambiguous - explicit (直率的；详述的)         
+unequivocal - unambiguous - explicit (直率的；详述的)           
 
 有偏见的   
 tendentious - jaundiced - prejudiced - prejudicial -    
@@ -88,7 +88,7 @@ burlesque (滑稽戏) - clownish (似小丑的) - comical - humoristic - waggish
 sanguine (面色红润的) - optimistic - upbeat (上升的) - affirmative (肯定的) - 
 
 高兴的；愉快的    
-exhilarating - jolly - merry (微醺的) - amused (顽皮的) - cheerful - piacevole - convivial (欢宴的) - euphoric -         
+exhilarating - jolly - merry (微醺的) - amused (顽皮的) - cheerful - piacevole - convivial (欢宴的) - euphoric - diverting (有趣的) -         
 
 悲哀的，不高兴的，痛苦的         
 lugubrious - mournful - woeful - downcast - sullen - grouchy - verjuiced (酸的) - distressing - miserable - anguished - grievous (剧烈的) - torturous (折磨人的) -       
@@ -103,10 +103,7 @@ redundant - unnecessary - superfluous - surplus - extra - excessive
 composed - unperturbed - collected - calm - imperturbable - unflappable - serene - sedate      
 
 轻浮的，轻狂的    
-flighty - flirtatious (爱调戏的) - featherbrained (愚蠢的) - light-headed (头晕的) - giddy (肤浅的) - fickle (反复无常的) - flirty - frivolous ( 无聊的；琐碎的) - coltish (小马似的；不受拘束的) - skittish (人或动物）不安的，易受惊的；难驾驭的) -     
-
-业余的    
-amateurish - extracurricular           
+flighty - flirtatious (爱调戏的) - featherbrained (愚蠢的) - light-headed (头晕的) - giddy (肤浅的) - fickle (反复无常的) - flirty - frivolous ( 无聊的；琐碎的) - coltish (小马似的；不受拘束的) - skittish (人或动物）不安的，易受惊的；难驾驭的) -          
 
 浮夸的   
 flatulent (自负的；肠胃气胀的；空虚的) - grandiloquent 夸张的；夸大的；大言不惭的 - turgescent (肿胀的) - 
@@ -122,6 +119,9 @@ confident - perky (神气的；得意洋洋的)
 
 自卑的     
 self-abased - self-contemptuous - inferior -        
+
+业余的    
+amateurish - extracurricular      
 
 繁重的       
 onerous (麻烦的；负有义务的；负有法律责任的) - taxing - burdensome (恼人的) - weighty (严肃的) -       
@@ -236,7 +236,7 @@ churlish - flippant (轻率的；嘴碎的) - barbaric - insolent (傲慢的) - 
 courteous - civil - polite - meek (温顺的) - courtly (威严的；奉承的) -   
 
 贪婪的   
-voracious (贪吃的；狼吞虎咽的) - avid (热心的) - rapacious - 
+voracious (贪吃的；狼吞虎咽的) - avid (热心的) - rapacious - acquisitive (想获得的；可学到的) -   
 
 吸引人的   
 spellbinding - intriguing (有趣的) - alluring (诱惑的)      
@@ -258,6 +258,9 @@ mercurial (水银的；水星的；墨丘利神的；雄辩机智的) - fickle (
 
 连续不断的    
 incessant - unintermittent - continuous - successive (继承的；依次的) - consecutive - sequential - serial (连载的；分期偿还的) -      
+
+必然的，不可避免的        
+inevitable - unescapable - unavoidable - ineluctable -        
 
 坚定的   
 staunch (忠诚的) - steadfast - sturdy (坚强的) - unswerving (始终不渝的；不歪的) - impregnable (无法攻取的；不受影响的;可以受孕的) - decisive (决定性的) -     
@@ -348,7 +351,10 @@ prescient - foregone -
 archaic - antediluvian (大洪水前的) - obsolete (废弃的；老式的) - timeworn - stale (陈腐的；不新鲜的) - dated (有日期的) - prehistoric (史前的) -  antique - hoary (灰白的) -          
 
 传统的      
-conventional (惯例的) - trad/traditional - orthodox (正统的) -        
+conventional (惯例的) - trad/traditional - orthodox (正统的) -         
+
+有利可图的，有利润的  
+remunerative - lucrative - profitable -     
 
 腐蚀性的    
 corrosive - caustic (苛性的；刻薄的) - amyctic (刺激性的) -    
@@ -411,6 +417,9 @@ prescience - prognosis
 
 组成，构成   
 constitute - compose (写作；使平静；排…的版) - comprise (包含) -     
+
+取代，代替   
+supersede - displace - substitute -     
 
 节省   
 retrenchment (删除) - spare (v.吝惜；饶恕；分出 adj.多余的；瘦的；少量的 n. 剩余；备用零件)         
