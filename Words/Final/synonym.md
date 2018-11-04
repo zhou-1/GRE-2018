@@ -104,6 +104,7 @@ composed - unperturbed - collected - calm - imperturbable - unflappable - serene
 
 轻浮的，轻狂的    
 flighty - flirtatious (爱调戏的) - featherbrained (愚蠢的) - light-headed (头晕的) - giddy (肤浅的) - fickle (反复无常的) - flirty - frivolous ( 无聊的；琐碎的) - coltish (小马似的；不受拘束的) - skittish (人或动物）不安的，易受惊的；难驾驭的) -     
+
 业余的    
 amateurish - extracurricular           
 
@@ -327,6 +328,12 @@ provisional - occasional - extemporaneous - interim (中间的) - casual -
 
 比喻性的   
 metaphorical - figurative -     
+
+巨大的   
+immense (无边无际的；非常好的) - enormous (凶暴的，极恶的) - tremendous (惊人的；极好的) - colossal (异常的，非常的) - gigantic - vast (广阔的；大量的；巨额的n. 浩瀚；广阔无垠的空间) - bulky (笨重的) - elephantine (似象的；粗笨的，笨拙的) -     
+
+微小的   
+tiny (很少的) - minute (分钟；片刻；备忘录，笔记；会议记录 vt. 将…记录下来 adj. 详细的) - puny - wee (adj. 极小的；很早的 n. 一点点) - weeny -   
 
 有条件的   
 contingent (adj. 因情况而异的；不一定的；可能的；n. 偶然事件；代表团) -  conditional -    
