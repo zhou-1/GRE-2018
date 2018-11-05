@@ -14,7 +14,10 @@ mediocre/mediocrity n. - characterless - commonplace - featureless -
 peripheral (外围的) - secondary (中等的) - minor - subordinate -        
 
 有权威的   
-magisterial (专横的；官吏的) - authoritative (当局的) - canonical (依教规的；牧师的) -    
+magisterial (专横的；官吏的) - authoritative (当局的) - canonical (依教规的；牧师的) -      
+
+威风的   
+imposing (壮观的；给人深刻印象的) - awe-inspiring (使人敬畏的) - commanding (指挥的；居高临下的) - surtei -     
 
 刺耳的   
 cacophonous (粗腔横调的) - discordant (不一致的) - harsh (严厉的；严酷的；粗糙的；刺目的) - hoarse (嘶哑的) - strident (尖锐的；吱吱尖叫的；轧轧作响的) - raspy (易怒的；粗糙的) - grating (磨擦的 n. [光] 光栅；摩擦) - jarring (不和谐的；辗轧的) - 
@@ -91,7 +94,7 @@ sanguine (面色红润的) - optimistic - upbeat (上升的) - affirmative (肯�
 exhilarating - jolly - merry (微醺的) - amused (顽皮的) - cheerful - piacevole - convivial (欢宴的) - euphoric - diverting (有趣的) -         
 
 悲哀的，不高兴的，痛苦的         
-lugubrious - mournful - woeful - downcast - sullen - grouchy - verjuiced (酸的) - distressing - miserable - anguished - grievous (剧烈的) - torturous (折磨人的) -       
+lugubrious - mournful - woeful - wobegone - downcast - sullen - grouchy - verjuiced (酸的) - distressing - miserable - anguished - grievous (剧烈的) - torturous (折磨人的) - maudlin (感情脆弱的；容易流泪的) - lachrymose (爱哭的) - lacrimose - plaintive -        
 
 沮丧的
 disheartening - depressed - spiritless - downcast - dejected - blue (蓝色的；下流的) - gloomy (黑暗的；阴郁的) - despondent (失望的) - frustrated (失意的，挫败的；泄气的) - doleful (寂寞的；悲哀的；阴沉的；忧郁的) -    
@@ -106,10 +109,16 @@ composed - unperturbed - collected - calm - imperturbable - unflappable - serene
 flighty - flirtatious (爱调戏的) - featherbrained (愚蠢的) - light-headed (头晕的) - giddy (肤浅的) - fickle (反复无常的) - flirty - frivolous ( 无聊的；琐碎的) - coltish (小马似的；不受拘束的) - skittish (人或动物）不安的，易受惊的；难驾驭的) -          
 
 浮夸的   
-flatulent (自负的；肠胃气胀的；空虚的) - grandiloquent 夸张的；夸大的；大言不惭的 - turgescent (肿胀的) - 
+flatulent (自负的；肠胃气胀的；空虚的) - grandiloquent 夸张的；夸大的；大言不惭的 - turgescent (肿胀的) -      
+
+放荡的，放纵的        
+licentious - libertine - profligate - sultry (闷热的；狂暴的；淫荡的) - dissipated (消散的；沉迷于酒色的；闲游浪荡的) - dissolute - rakehelly - rakish - indulgent (宽容的；任性的) - reinless - apolaustic - epicurean 享乐主义的 - hedonistic 快乐主义的 -         
 
 高傲的，傲慢的    
-haughty - lofty (高的；崇高的；高级的) - arrogant - overbearing (压倒一切的 v. 压住；否定；专横地对待) - proudhearted (骄傲的) - supercilious - lordly (贵族气派的) - cocky - bouncy (有弹性的；快活的；精神饱满的) - swellheaded - pompous (浮夸的；华而不实的) - brash (无礼的；仓促的，性急的) -   
+haughty - lofty (高的；崇高的；高级的) - arrogant - overbearing (压倒一切的 v. 压住；否定；专横地对待) - proudhearted (骄傲的) - supercilious - lordly (贵族气派的) - cocky - bouncy (有弹性的；快活的；精神饱满的) - swellheaded - pompous (浮夸的；华而不实的) - brash (无礼的；仓促的，性急的) -     
+
+谄媚的，讨好的   
+propitiatory (安抚的；劝解的) - flattering - trucklingly - obsequious (顺从的) - adulatory - greasy (油腻的) - claptrap -     
 
 自满的，满足的    
 complacent - fatuous (愚笨的；发呆的) -     
@@ -128,6 +137,9 @@ onerous (麻烦的；负有义务的；负有法律责任的) - taxing - burdens
 
 故意的     
 deliberate (深思熟虑的，从容的) - intentional (策划的) - prepense (预谋的) - aforethought (预谋的) - willful (任性的) -     
+
+虚无的    
+nihilistic -    
 
 内敛的  
 recessive adj. 隐性的；逆行的；后退的 - introverted adj. 内向的 - reserved 保留的，预订的；高冷的 -      
@@ -275,7 +287,7 @@ staunch (忠诚的) - steadfast - sturdy (坚强的) - unswerving (始终不渝�
 wrongheaded (坚持错误的) - stubborn - tenacious - ramstam (任性的) - froward (刚愎的；难驾驭的) - bigoted (心地狭窄的；盲从的) - obstinate (倔强的；难以控制的) - adamant (坚强的；坚定不移的；坚硬无比的) - persistent      
 
 脆弱的  
-insubstantial(无实体的；幻想的，非真实的) - tender(温柔的；柔软的) - brittle(易碎的；易生气的) - frail(虚弱的；n. 灯心草篓；少妇；少女) - flimsy(浅薄的；易损坏的；不周密的; n. 薄纸；复写纸；打字纸)        
+insubstantial(无实体的；幻想的，非真实的) - tender(温柔的；柔软的) - brittle(易碎的；易生气的) - frail(虚弱的；n. 灯心草篓；少妇；少女) - flimsy(浅薄的；易损坏的；不周密的; n. 薄纸；复写纸；打字纸) - feeble (微弱的，无力的；虚弱的；薄弱的) -         
 
 无懈可击的  
 tenable (（主张等）站得住脚的；可维持的) - impeccable - unimpeachable (无可指责的；无可怀疑的；无过失的，无罪的) - invulnerable (不会受伤害的) - unassailable (不容置疑的)       
