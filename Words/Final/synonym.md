@@ -36,7 +36,7 @@ vague - nebulous - imprecise - ambiguous - obscure - equivocal - precarious (危
 obfuscate vt. 使模糊；使迷乱；弄暗      
 
 明确的   
-unequivocal - unambiguous - explicit (直率的；详述的)           
+unequivocal - unambiguous - explicit (直率的；详述的) - conspicuous 显著的，显而易见的 -            
 
 有偏见的   
 tendentious - jaundiced - prejudiced - prejudicial -    
@@ -239,7 +239,7 @@ courteous - civil - polite - meek (温顺的) - courtly (威严的；奉承的) 
 voracious (贪吃的；狼吞虎咽的) - avid (热心的) - rapacious - acquisitive (想获得的；可学到的) -   
 
 吸引人的   
-spellbinding - intriguing (有趣的) - alluring (诱惑的)      
+spellbinding - intriguing (有趣的) - alluring (诱惑的) -            
 
 无聊的  
 vapid (无趣味的；无生气的；索然乏味的) - tiresome - humdrum (单调的) - bromidic (陈腐的) -    
@@ -264,6 +264,9 @@ inevitable - unescapable - unavoidable - ineluctable -
 
 逃避的，托辞的；推托的      
 evasive - elusive (难懂的；易忘的；难捉摸的) - truant adj. 旷课的；偷懒的 - dodgy 狡猾的，逃避的；善于骗人的；躲闪的 -      
+
+顺从的，易受影响的   
+plaint (易弯的；能适应的) - compliant - conform (一致的) - submissive (服从的；柔顺的) - obedient (孝顺的) - tame (驯服的；平淡的；乏味的) - impressionable (敏感的) - susceptible (易感动的；容许…的) - accessible (易接近的；可进入的；可理解的) -       
 
 坚定的   
 staunch (忠诚的) - steadfast - sturdy (坚强的) - unswerving (始终不渝的；不歪的) - impregnable (无法攻取的；不受影响的;可以受孕的) - decisive (决定性的) -     
@@ -332,6 +335,12 @@ momentary - evanescent 容易消散的，逐渐消失的 - transitory - unabidin
 临时的    
 provisional - occasional - extemporaneous - interim (中间的) - casual -     
 
+静止的    
+dormant (休眠的；睡眠状态的；隐匿的) - resting - immobile 固定的；稳定的；不变的 - motionless (不运动的) - stationary (固定的；定居的；常备军的) - quiescent (不活动的；沉寂的) -     
+
+活泼的   
+lively (生动的；真实的；生气勃勃的) - vivid (鲜明的；鲜艳的) - vivacious - alive - brisk (敏锐的，轻快的；凛冽的) - vivace adj. -    
+
 比喻性的   
 metaphorical - figurative -     
 
@@ -369,7 +378,10 @@ irrelevant - extraneous (外来的) -
 hybrid (n. 杂种，混血儿；混合物 adj. 混合的) - mongrel (n. 杂种；混血儿；杂种动物 adj. 混血儿的) - 
 
 地球的，陆地的   
-terrestrial - earthly - worldly - mundane (世俗的，平凡的) -    
+terrestrial - earthly - worldly - mundane (世俗的，平凡的) -      
+
+翠绿的   
+verdant (没有经验的；不老练的) - emerald (绿宝石) -  
 
 
 # Verb
@@ -430,8 +442,11 @@ retrenchment (删除) - spare (v.吝惜；饶恕；分出 adj.多余的；瘦的
 曲解，误解    
 misinterpret - misconception (n.) -    
 
-污染，弄脏   
-contaminate - pollute   
+污染，弄脏    
+contaminate - pollute     
+
+危害    
+jeopardize (使陷危地；使受危困) - detriment n. - endanger - hazard (赌运气；冒…的危险) -    
 
 浸透使湿透    
 saturate - soakage - endosmosis (细胞内浸透) - permeation (湿透) - percolation (过滤)     
@@ -457,6 +472,8 @@ thrive - prosperity n. - flourish - prosperous adj. - boom (隆隆声)
 谴责,指责      
 denounce (告发；通告废除) - remonstrate (告诫；抗议) - condemn (判刑，定罪) - impugn (抨击；反驳；对…表示怀疑) - censure (n. v.) - accusation (n.) -        
 
+称赞   
+acclaim - praise - compliment (n.) -     
 
 
 # Noun
